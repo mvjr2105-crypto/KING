@@ -1,0 +1,1093 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | BIGG BOSS OTT 24X7 FHD" tvg-logo="https://images.news18.com/ibnlive/uploads/2021/02/1613126289_download-2.jpg" group-title="IN | Entertainment",IN | BIGG BOSS OTT 24X7 FHD
+http://b1g.uk:80/Kapil/Kapil123/685130
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | BIGG BOSS OTT 24X7 HD" tvg-logo="https://images.news18.com/ibnlive/uploads/2021/02/1613126289_download-2.jpg" group-title="IN | Entertainment",IN | BIGG BOSS OTT 24X7 HD
+http://b1g.uk:80/Kapil/Kapil123/685131
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starplushd.in" tvg-name="IN | TS Star Plus FHD" tvg-logo="http://ryzen.one/logos2/star_plushd.jpg" group-title="IN | Entertainment",IN | TS Star Plus FHD
+http://b1g.uk:80/Kapil/Kapil123/7932
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starutsav.in" tvg-name="IN | TS Star Utsav" tvg-logo="http://ryzen.one/logos2/star_utsav.jpg" group-title="IN | Entertainment",IN | TS Star Utsav
+http://b1g.uk:80/Kapil/Kapil123/8534
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starbharathd.in" tvg-name="IN | TS Star Bharat FHD" tvg-logo="http://ryzen.one/logos2/star_bharathd.jpg" group-title="IN | Entertainment",IN | TS Star Bharat FHD
+http://b1g.uk:80/Kapil/Kapil123/11308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starbharathd.in" tvg-name="IN | TS Star Bharat" tvg-logo="http://ryzen.one/logos2/star_bharathd.jpg" group-title="IN | Entertainment",IN | TS Star Bharat
+http://b1g.uk:80/Kapil/Kapil123/853017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starplus.uk" tvg-name="UK-Utsav Plus UHD" tvg-logo="http://ryzen.one/logos2/utsav_plushd.jpg" group-title="IN | Entertainment",UK-Utsav Plus UHD
+http://b1g.uk:80/Kapil/Kapil123/15221
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starplus.uk" tvg-name="UK-Utsav Plus SD" tvg-logo="http://ryzen.one/logos2/utsav_plus.jpg" group-title="IN | Entertainment",UK-Utsav Plus SD
+http://b1g.uk:80/Kapil/Kapil123/12586
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="utsavbharat.uk" tvg-name="UK-Utsav Bharat SD" tvg-logo="http://ryzen.one/logos2/utsav_bharat.jpg" group-title="IN | Entertainment",UK-Utsav Bharat SD
+http://b1g.uk:80/Kapil/Kapil123/11934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="utsavbharat.uk" tvg-name="UK-Utsav Bharat" tvg-logo="http://ryzen.one/logos2/utsav_bharat.jpg" group-title="IN | Entertainment",UK-Utsav Bharat
+http://b1g.uk:80/Kapil/Kapil123/12492
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorshd.uk" tvg-name="UK | Colors FHD" tvg-logo="http://ryzen.one/logos2/colorshd.jpg" group-title="IN | Entertainment",UK | Colors FHD
+http://b1g.uk:80/Kapil/Kapil123/52576
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colors.uk" tvg-name="UK-Colors HD" tvg-logo="http://ryzen.one/logos2/colorshd.jpg" group-title="IN | Entertainment",UK-Colors HD
+http://b1g.uk:80/Kapil/Kapil123/12469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorshd.in" tvg-name="IN | TS Colors FHD" tvg-logo="http://ryzen.one/logos2/colorshd.jpg" group-title="IN | Entertainment",IN | TS Colors FHD
+http://b1g.uk:80/Kapil/Kapil123/7931
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorshd.in" tvg-name="IN | VT COLORS FHD" tvg-logo="http://ryzen.one/logos2/colorshd.jpg" group-title="IN | Entertainment",IN | VT COLORS FHD
+http://b1g.uk:80/Kapil/Kapil123/235948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsrishtey.uk" tvg-name="UK-Colors Rishtey SD" tvg-logo="http://ryzen.one/logos2/colors_rishtey.jpg" group-title="IN | Entertainment",UK-Colors Rishtey SD
+http://b1g.uk:80/Kapil/Kapil123/12476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsrishtey.in" tvg-name="IN | VT COLORS RISHTEY FHD" tvg-logo="http://ryzen.one/logos2/colors_rishtey.jpg" group-title="IN | Entertainment",IN | VT COLORS RISHTEY FHD
+http://b1g.uk:80/Kapil/Kapil123/235949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsrishtey.in" tvg-name="IN | TS Colors Rishtey" tvg-logo="http://ryzen.one/logos2/colors_rishtey.jpg" group-title="IN | Entertainment",IN | TS Colors Rishtey
+http://b1g.uk:80/Kapil/Kapil123/8524
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeetv.uk" tvg-name="UK-Zee TV FHD" tvg-logo="http://ryzen.one/logos2/zee_tvhd.jpg" group-title="IN | Entertainment",UK-Zee TV FHD
+http://b1g.uk:80/Kapil/Kapil123/12587
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeetv.uk" tvg-name="UK-Zee TV HD" tvg-logo="http://ryzen.one/logos2/zee_tvhd.jpg" group-title="IN | Entertainment",UK-Zee TV HD
+http://b1g.uk:80/Kapil/Kapil123/15224
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeetvhd.in" tvg-name="IN | TS Zee TV FHD" tvg-logo="http://ryzen.one/logos2/zee_tvhd.jpg" group-title="IN | Entertainment",IN | TS Zee TV FHD
+http://b1g.uk:80/Kapil/Kapil123/7929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeetv.in" tvg-name="IN | TS Zee TV" tvg-logo="http://ryzen.one/logos2/zee_tv.jpg" group-title="IN | Entertainment",IN | TS Zee TV
+http://b1g.uk:80/Kapil/Kapil123/163706
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonytv.uk" tvg-name="UK-SONY TV FHD*" tvg-logo="http://ryzen.one/logos2/sony_tvhd.jpg" group-title="IN | Entertainment",UK-SONY TV FHD*
+http://b1g.uk:80/Kapil/Kapil123/12478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonytv.uk" tvg-name="UK-SONY TV FHD" tvg-logo="http://ryzen.one/logos2/sony_tvhd.jpg" group-title="IN | Entertainment",UK-SONY TV FHD
+http://b1g.uk:80/Kapil/Kapil123/12591
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonytv.uk" tvg-name="UK-SONY TV HD*" tvg-logo="http://ryzen.one/logos2/sony_tvhd.jpg" group-title="IN | Entertainment",UK-SONY TV HD*
+http://b1g.uk:80/Kapil/Kapil123/308959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyhd.in" tvg-name="IN | TS SET FHD" tvg-logo="http://ryzen.one/logos2/sony_tvhd.jpg" group-title="IN | Entertainment",IN | TS SET FHD
+http://b1g.uk:80/Kapil/Kapil123/7935
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysab.uk" tvg-name="UK-SONY SAB SD*" tvg-logo="http://ryzen.one/logos2/sony_sab.jpg" group-title="IN | Entertainment",UK-SONY SAB SD*
+http://b1g.uk:80/Kapil/Kapil123/12485
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysab.uk" tvg-name="UK-SONY SAB TV" tvg-logo="http://ryzen.one/logos2/sony_sab.jpg" group-title="IN | Entertainment",UK-SONY SAB TV
+http://b1g.uk:80/Kapil/Kapil123/15217
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony SAB" tvg-logo="" group-title="IN | Entertainment",IN | TS Sony SAB
+http://b1g.uk:80/Kapil/Kapil123/865912
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysabhd.in" tvg-name="IN | TS Sony Sab FHD" tvg-logo="http://ryzen.one/logos2/sony_sabhd.jpg" group-title="IN | Entertainment",IN | TS Sony Sab FHD
+http://b1g.uk:80/Kapil/Kapil123/7884
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="866" tvg-name="IN | JIO EXCLUSIVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reliance_Jio_Logo.svg/640px-Reliance_Jio_Logo.svg.png" group-title="IN | Entertainment",IN | JIO EXCLUSIVE FHD
+http://b1g.uk:80/Kapil/Kapil123/711648
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="andtvhd.in" tvg-name="IN | TS &TV FHD" tvg-logo="http://ryzen.one/logos2/&tvhd.jpg" group-title="IN | Entertainment",IN | TS &TV FHD
+http://b1g.uk:80/Kapil/Kapil123/8512
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Star Gold Select FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Star Gold Select FHD
+http://b1g.uk:80/Kapil/Kapil123/865923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Star Gold Romance" tvg-logo="" group-title="IN | Entertainment",IN | TS Star Gold Romance
+http://b1g.uk:80/Kapil/Kapil123/865922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Star Gold Thrills" tvg-logo="" group-title="IN | Entertainment",IN | TS Star Gold Thrills
+http://b1g.uk:80/Kapil/Kapil123/853006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | Sony Kal" tvg-logo="https://sony-kal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="IN | Entertainment",IN | Sony Kal
+http://b1g.uk:80/Kapil/Kapil123/823869
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Star Life Hindi FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Star Life Hindi FHD
+http://b1g.uk:80/Kapil/Kapil123/852950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Star Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Star_Life_%28India%29.svg" group-title="IN | Entertainment",IN | TS Star Life FHD
+http://b1g.uk:80/Kapil/Kapil123/865924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeesalaam.in" tvg-name="IN | ZEE SALAAM" tvg-logo="http://ryzen.one/logos2/zee_salaam.jpg" group-title="IN | Entertainment",IN | ZEE SALAAM
+http://b1g.uk:80/Kapil/Kapil123/20823
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Tata Play Bollywood Premiere" tvg-logo="" group-title="IN | Entertainment",IN | TS Tata Play Bollywood Premiere
+http://b1g.uk:80/Kapil/Kapil123/853002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18gujarati.in" tvg-name="IN-GUJ | TS News18 Gujarati" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Gujarati.png" group-title="IN | Entertainment",IN-GUJ | TS News18 Gujarati
+http://b1g.uk:80/Kapil/Kapil123/86092
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tataskyactingadda.in" tvg-name="IN | TS Tata Play Neet Prep" tvg-logo="http://ryzen.one/logos2/tata_sky_actingadda.jpg" group-title="IN | Entertainment",IN | TS Tata Play Neet Prep
+http://b1g.uk:80/Kapil/Kapil123/86048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="snehts71" tvg-name="IN | TS Tata Play Bollywood Premier" tvg-logo="http://ryzen.one/logos2/tata_sky_english.jpg" group-title="IN | Entertainment",IN | TS Tata Play Bollywood Premier
+http://b1g.uk:80/Kapil/Kapil123/86047
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="snehts627" tvg-name="IN | TS Tata Play Fun Learn Junior" tvg-logo="http://ryzen.one/logos2/tata_sky_funlearn.jpg" group-title="IN | Entertainment",IN | TS Tata Play Fun Learn Junior
+http://b1g.uk:80/Kapil/Kapil123/20829
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="snehts626" tvg-name="IN | TS Tata Play Fun Learn Preschool" tvg-logo="http://ryzen.one/logos2/tata_sky_funlearn.jpg" group-title="IN | Entertainment",IN | TS Tata Play Fun Learn Preschool
+http://b1g.uk:80/Kapil/Kapil123/14106
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="snehts167" tvg-name="IN | TS Tata Play Vedic Maths" tvg-logo="http://ryzen.one/logos2/tata_sky_vedicmaths.jpg" group-title="IN | Entertainment",IN | TS Tata Play Vedic Maths
+http://b1g.uk:80/Kapil/Kapil123/7986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeesarthak.in" tvg-name="IN | TS Zee Sarthak" tvg-logo="http://ryzen.one/logos2/zee_sarthak.jpg" group-title="IN | Entertainment",IN | TS Zee Sarthak
+http://b1g.uk:80/Kapil/Kapil123/86052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Tata Play Comedy" tvg-logo="" group-title="IN | Entertainment",IN | TS Tata Play Comedy
+http://b1g.uk:80/Kapil/Kapil123/865929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Tata Play Bollywood FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Tata Play Bollywood FHD
+http://b1g.uk:80/Kapil/Kapil123/865928
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Shemaroo TV" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxsUvKodvjrEyGwZusfjA21z6ObRg3UqakgFYEJZ_GUjg.jpg" group-title="IN | Entertainment",IN | TS Shemaroo TV
+http://b1g.uk:80/Kapil/Kapil123/865909
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS & Flix Hindi FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS & Flix Hindi FHD
+http://b1g.uk:80/Kapil/Kapil123/865886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Epic TV" tvg-logo="" group-title="IN | Entertainment",IN | TS Epic TV
+http://b1g.uk:80/Kapil/Kapil123/865899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts554" tvg-name="IN | TS Sony Pal" tvg-logo="" group-title="IN | Entertainment",IN | TS Sony Pal
+http://b1g.uk:80/Kapil/Kapil123/853029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="babytvhd.in" tvg-name="IN | TS Baby TV FHD" tvg-logo="http://ryzen.one/logos2/baby_tvhd.jpg" group-title="IN | Entertainment",IN | TS Baby TV FHD
+http://b1g.uk:80/Kapil/Kapil123/9062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1sports.in" tvg-name="IN | TS Cbeebies" tvg-logo="http://ryzen.one/logos2/cbeebies.jpg" group-title="IN | Entertainment",IN | TS Cbeebies
+http://b1g.uk:80/Kapil/Kapil123/70373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pogo.in" tvg-name="IN | TS Pogo Hindi" tvg-logo="http://ryzen.one/logos2/pogo.jpg" group-title="IN | Entertainment",IN | TS Pogo Hindi
+http://b1g.uk:80/Kapil/Kapil123/20067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetworkhd.in" tvg-name="IN | TS Cartoon Network FHD+" tvg-logo="http://ryzen.one/logos2/catoon_network_hd+.jpg" group-title="IN | Entertainment",IN | TS Cartoon Network FHD+
+http://b1g.uk:80/Kapil/Kapil123/20856
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts114" tvg-name="IN | TS Disney International FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Disney International FHD
+http://b1g.uk:80/Kapil/Kapil123/852939
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts114" tvg-name="IN | TS Disney Channel" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney.png" group-title="IN | Entertainment",IN | TS Disney Channel
+http://b1g.uk:80/Kapil/Kapil123/852993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Nick" tvg-logo="" group-title="IN | Entertainment",IN | TS Nick
+http://b1g.uk:80/Kapil/Kapil123/865906
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickhdplus.in" tvg-name="IN | TS Nickelodeon Hindi FHD+" tvg-logo="http://ryzen.one/logos2/nick+hd.jpg" group-title="IN | Entertainment",IN | TS Nickelodeon Hindi FHD+
+http://b1g.uk:80/Kapil/Kapil123/20850
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickhdplus.in" tvg-name="IN | TS Nick FHD+" tvg-logo="http://ryzen.one/logos2/nick+hd.jpg" group-title="IN | Entertainment",IN | TS Nick FHD+
+http://b1g.uk:80/Kapil/Kapil123/21601
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickhdplus.in" tvg-name="IN | VT NICK FHD" tvg-logo="http://ryzen.one/logos2/nickhd.jpg" group-title="IN | Entertainment",IN | VT NICK FHD
+http://b1g.uk:80/Kapil/Kapil123/235954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjrin.in" tvg-name="IN | TS Nick Jr. Hindi" tvg-logo="http://ryzen.one/logos2/nick_jr.jpg" group-title="IN | Entertainment",IN | TS Nick Jr. Hindi
+http://b1g.uk:80/Kapil/Kapil123/9067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Nick Hindi" tvg-logo="http://streamxcode.ddns.net:9090/logos/" group-title="IN | Entertainment",IN | TS Nick Hindi
+http://b1g.uk:80/Kapil/Kapil123/865907
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Nick Jr." tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaJaemkoo344CzjCz_XDJabt339hdS3aUW0PNEepFHam.png" group-title="IN | Entertainment",IN | TS Nick Jr.
+http://b1g.uk:80/Kapil/Kapil123/865908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjrin.in" tvg-name="IN | VT NICK JR FHD" tvg-logo="http://ryzen.one/logos2/nick_jrhd.jpg" group-title="IN | Entertainment",IN | VT NICK JR FHD
+http://b1g.uk:80/Kapil/Kapil123/235956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Hungama TV" tvg-logo="" group-title="IN | Entertainment",IN | TS Hungama TV
+http://b1g.uk:80/Kapil/Kapil123/865901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Cartoon Network+ Hindi FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Cartoon Network+ Hindi FHD
+http://b1g.uk:80/Kapil/Kapil123/865893
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Cartoon Network Hindi FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Cartoon Network Hindi FHD
+http://b1g.uk:80/Kapil/Kapil123/865892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Cartoon Network FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Cartoon Network FHD
+http://b1g.uk:80/Kapil/Kapil123/865891
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Cartoon Network" tvg-logo="" group-title="IN | Entertainment",IN | TS Cartoon Network
+http://b1g.uk:80/Kapil/Kapil123/865890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjrin.in" tvg-name="IN | TS Nickelodeon Junior" tvg-logo="http://ryzen.one/logos2/nick_jr.jpg" group-title="IN | Entertainment",IN | TS Nickelodeon Junior
+http://b1g.uk:80/Kapil/Kapil123/20849
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sonic" tvg-logo="" group-title="IN | Entertainment",IN | TS Sonic
+http://b1g.uk:80/Kapil/Kapil123/865910
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonicnickelodeon.in" tvg-name="IN | VT SONIC KIDS FHD" tvg-logo="http://ryzen.one/logos2/sonic_kidshd.jpg" group-title="IN | Entertainment",IN | VT SONIC KIDS FHD
+http://b1g.uk:80/Kapil/Kapil123/235957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonicnickelodeon.in" tvg-name="IN | TS Nick Sonic Hindi" tvg-logo="http://ryzen.one/logos2/nick_sonic.jpg" group-title="IN | Entertainment",IN | TS Nick Sonic Hindi
+http://b1g.uk:80/Kapil/Kapil123/20848
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony Hin Yay" tvg-logo="" group-title="IN | Entertainment",IN | TS Sony Hin Yay
+http://b1g.uk:80/Kapil/Kapil123/865918
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyyay.in" tvg-name="IN | TS Sony Yay" tvg-logo="http://ryzen.one/logos2/sony_yay.jpg" group-title="IN | Entertainment",IN | TS Sony Yay
+http://b1g.uk:80/Kapil/Kapil123/9084
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wowmusic.in" tvg-name="IN | WOW Kidz Hindi" tvg-logo="http://ryzen.one/logos2/wow_kidzhindi.jpg" group-title="IN | Entertainment",IN | WOW Kidz Hindi
+http://b1g.uk:80/Kapil/Kapil123/11831
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bigmagic.in" tvg-name="IN | TS Zee Big Magic" tvg-logo="http://ryzen.one/logos2/zee_bigmagic.jpg" group-title="IN | Entertainment",IN | TS Zee Big Magic
+http://b1g.uk:80/Kapil/Kapil123/8520
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Big Magic" tvg-logo="http://ryzen.one/logos2/big_magic.jpg" group-title="IN | Entertainment",IN | TS Big Magic
+http://b1g.uk:80/Kapil/Kapil123/417549
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Animal Planet Hindi FHD" tvg-logo="" group-title="IN | Entertainment",IN | TS Animal Planet Hindi FHD
+http://b1g.uk:80/Kapil/Kapil123/865889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Zee Zest FHD" tvg-logo="https://mym2e.fun/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optge_7dMspB9DktWmcTG6V7VlkvaShB497sYKjTTRDMbZ5oA-nyHmAk24ZO5t5IB8Gs.png" group-title="IN | Entertainment",IN | TS Zee Zest FHD
+http://b1g.uk:80/Kapil/Kapil123/865934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts797" tvg-name="IN | TS Zee Thirai TV" tvg-logo="http://ryzen.one/logos2/zee_thirai.jpg" group-title="IN | Entertainment",IN | TS Zee Thirai TV
+http://b1g.uk:80/Kapil/Kapil123/163707
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddnational.in" tvg-name="IN | TS DD National FHD" tvg-logo="http://ryzen.one/logos2/dd_national.jpg" group-title="IN | Entertainment",IN | TS DD National FHD
+http://b1g.uk:80/Kapil/Kapil123/163724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddindia.in" tvg-name="IN | FD DD India" tvg-logo="http://ryzen.one/logos2/dd_national.jpg" group-title="IN | Entertainment",IN | FD DD India
+http://b1g.uk:80/Kapil/Kapil123/417555
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts103" tvg-name="IN | TS MTV" tvg-logo="http://ryzen.one/logos2/mtv.jpg" group-title="IN | Music",IN | TS MTV
+http://b1g.uk:80/Kapil/Kapil123/675565
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvhdplus.in" tvg-name="IN | VT MTV HD+" tvg-logo="http://ryzen.one/logos2/mtv+hd.jpg" group-title="IN | Music",IN | VT MTV HD+
+http://b1g.uk:80/Kapil/Kapil123/235951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtv.in" tvg-name="IN | TS MTV FHD" tvg-logo="http://ryzen.one/logos2/mtv+hd.jpg" group-title="IN | Music",IN | TS MTV FHD
+http://b1g.uk:80/Kapil/Kapil123/8523
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts236" tvg-name="IN | TS MTV Beats" tvg-logo="http://ryzen.one/logos2/mtv_beats.jpg" group-title="IN | Music",IN | TS MTV Beats
+http://b1g.uk:80/Kapil/Kapil123/675563
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvbeatshd.in" tvg-name="IN | TS MTV Beats FHD" tvg-logo="http://ryzen.one/logos2/mtv_beatshd.jpg" group-title="IN | Music",IN | TS MTV Beats FHD
+http://b1g.uk:80/Kapil/Kapil123/20980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvbeatshd.in" tvg-name="IN | VT MTV BEATS FHD" tvg-logo="http://ryzen.one/logos2/mtv_beatshd.jpg" group-title="IN | Music",IN | VT MTV BEATS FHD
+http://b1g.uk:80/Kapil/Kapil123/235953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvbeats.in" tvg-name="IN-FD | MTV BEATS SD" tvg-logo="http://ryzen.one/logos2/mtv_beats.jpg" group-title="IN | Music",IN-FD | MTV BEATS SD
+http://b1g.uk:80/Kapil/Kapil123/417599
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="b4umusic.uk" tvg-name="UK-B4U Music" tvg-logo="http://ryzen.one/logos2/b4u_music.jpg" group-title="IN | Music",UK-B4U Music
+http://b1g.uk:80/Kapil/Kapil123/15230
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="b4umusic.in" tvg-name="IN | TS B4u Music" tvg-logo="http://ryzen.one/logos2/b4u_music.jpg" group-title="IN | Music",IN | TS B4u Music
+http://b1g.uk:80/Kapil/Kapil123/7938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-FD | B4U Music" tvg-logo="http://ryzen.one/logos2/b4u_music.jpg" group-title="IN | Music",IN-FD | B4U Music
+http://b1g.uk:80/Kapil/Kapil123/417598
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-FD | 9XM" tvg-logo="http://ryzen.one/logos2/9Xm.jpg" group-title="IN | Music",IN-FD | 9XM
+http://b1g.uk:80/Kapil/Kapil123/417597
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="9xjalwa.in" tvg-name="IN | TS 9x Jalwa" tvg-logo="http://ryzen.one/logos2/9x_jalwa.jpg" group-title="IN | Music",IN | TS 9x Jalwa
+http://b1g.uk:80/Kapil/Kapil123/8519
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="9xm.in" tvg-name="IN | TS 9x Music" tvg-logo="http://ryzen.one/logos2/9Xm.jpg" group-title="IN | Music",IN | TS 9x Music
+http://b1g.uk:80/Kapil/Kapil123/8518
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-FD | Zee Biskope" tvg-logo="http://ryzen.one/logos2/zee_biskope.jpg" group-title="IN | Music",IN-FD | Zee Biskope
+http://b1g.uk:80/Kapil/Kapil123/417536
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shemaroo.in" tvg-name="IN | TS Zee Biskope" tvg-logo="http://ryzen.one/logos2/zee_biskope.jpg" group-title="IN | Music",IN | TS Zee Biskope
+http://b1g.uk:80/Kapil/Kapil123/163709
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showbox.in" tvg-name="IN | TS Show Box" tvg-logo="http://ryzen.one/logos2/showbox.jpg" group-title="IN | Music",IN | TS Show Box
+http://b1g.uk:80/Kapil/Kapil123/7998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showbox.in" tvg-name="IN | TS Showbox Music" tvg-logo="http://ryzen.one/logos2/showbox_music.jpg" group-title="IN | Music",IN | TS Showbox Music
+http://b1g.uk:80/Kapil/Kapil123/163712
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showbox.in" tvg-name="IN-FD | ShowBox Music" tvg-logo="http://ryzen.one/logos2/showbox_music.jpg" group-title="IN | Music",IN-FD | ShowBox Music
+http://b1g.uk:80/Kapil/Kapil123/417600
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="britasiatv.uk" tvg-name="UK-Brit Asia TV SD*" tvg-logo="http://ryzen.one/logos2/brit_asiatv.jpg" group-title="IN | Music",UK-Brit Asia TV SD*
+http://b1g.uk:80/Kapil/Kapil123/12652
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | VT CLUBBING TV FHD" tvg-logo="http://ryzen.one/logos2/clubbing_tv.jpg" group-title="IN | Music",IN | VT CLUBBING TV FHD
+http://b1g.uk:80/Kapil/Kapil123/235955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="e24.in" tvg-name="IN | TS E24" tvg-logo="http://ryzen.one/logos2/e24.jpg" group-title="IN | Music",IN | TS E24
+http://b1g.uk:80/Kapil/Kapil123/20842
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Haryana Beats" tvg-logo="" group-title="IN | Music",IN | TS Haryana Beats
+http://b1g.uk:80/Kapil/Kapil123/675560
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS VH1 FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxxhhbsH87JYFl2k-RrMmzbg.jpeg" group-title="IN | Music",IN | TS VH1 FHD
+http://b1g.uk:80/Kapil/Kapil123/865932
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts846" tvg-name="IN | TS Haryanvi Beats" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMGMaPTk7NxSINi2quE772gyca9biGolTIb7yk=s900-c-k-c0x00ffffff-no-rj" group-title="IN | Music",IN | TS Haryanvi Beats
+http://b1g.uk:80/Kapil/Kapil123/675561
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mastiii.in" tvg-name="IN | TS Mastii" tvg-logo="http://ryzen.one/logos2/mastiii.jpg" group-title="IN | Music",IN | TS Mastii
+http://b1g.uk:80/Kapil/Kapil123/8532
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-FD | Sports18 Khel" tvg-logo="http://ryzen.one/logos2/zee_ganga.jpg" group-title="IN | Music",IN-FD | Sports18 Khel
+http://b1g.uk:80/Kapil/Kapil123/417537
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="musicindia.in" tvg-name="IN | MUSIC INDIA" tvg-logo="http://ryzen.one/logos2/music_india.jpg" group-title="IN | Music",IN | MUSIC INDIA
+http://b1g.uk:80/Kapil/Kapil123/20841
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zoom.in" tvg-name="IN | TS Zoom" tvg-logo="http://ryzen.one/logos2/zoom.jpg" group-title="IN | Music",IN | TS Zoom
+http://b1g.uk:80/Kapil/Kapil123/20837
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | A SPORTS HD" tvg-logo="http://ryzen.one/logos2/A_sports.jpg" group-title="IN/PK | Sports",PK | A SPORTS HD
+http://b1g.uk:80/Kapil/Kapil123/951714
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | A SPORTS FHD" tvg-logo="http://ryzen.one/logos2/A_sportshd.jpg" group-title="IN/PK | Sports",PK | A SPORTS FHD
+http://b1g.uk:80/Kapil/Kapil123/21499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | A SPORTS SD" tvg-logo="http://ryzen.one/logos2/A_sports.jpg" group-title="IN/PK | Sports",PK | A SPORTS SD
+http://b1g.uk:80/Kapil/Kapil123/261527
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | FAST SPORTS FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fast-Sports.png" group-title="IN/PK | Sports",PK | FAST SPORTS FHD
+http://b1g.uk:80/Kapil/Kapil123/334407
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | GEO SUPER SD" tvg-logo="http://ryzen.one/logos2/geo_super.jpg" group-title="IN/PK | Sports",PK | GEO SUPER SD
+http://b1g.uk:80/Kapil/Kapil123/239421
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | GEO SUPER HD" tvg-logo="http://ryzen.one/logos2/geo_super.jpg" group-title="IN/PK | Sports",PK | GEO SUPER HD
+http://b1g.uk:80/Kapil/Kapil123/7955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | PTV SPORTS FHD" tvg-logo="http://ryzen.one/logos2/PTV_SportsHD.jpg" group-title="IN/PK | Sports",PK | PTV SPORTS FHD
+http://b1g.uk:80/Kapil/Kapil123/263669
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | PTV SPORTS HD" tvg-logo="http://ryzen.one/logos2/PTV_SportsHD.jpg" group-title="IN/PK | Sports",PK | PTV SPORTS HD
+http://b1g.uk:80/Kapil/Kapil123/24662
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="http://ryzen.one/logos2/PTV_SportsHD.jpg" group-title="IN/PK | Sports",PK | PTV SPORTS SD
+http://b1g.uk:80/Kapil/Kapil123/11488
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ten Sports FHD" tvg-logo="http://ryzen.one/logos2/ten_sports.jpg" group-title="IN/PK | Sports",PK | Ten Sports FHD
+http://b1g.uk:80/Kapil/Kapil123/7972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ten Sports HD" tvg-logo="http://ryzen.one/logos2/ten_sports.jpg" group-title="IN/PK | Sports",PK | Ten Sports HD
+http://b1g.uk:80/Kapil/Kapil123/239424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ten Sports SD" tvg-logo="http://ryzen.one/logos2/ten_sports.jpg" group-title="IN/PK | Sports",PK | Ten Sports SD
+http://b1g.uk:80/Kapil/Kapil123/198362
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BD | T-SPORTS HD" tvg-logo="http://ryzen.one/logos2/TSportsHD.jpg" group-title="IN/PK | Sports",BD | T-SPORTS HD
+http://b1g.uk:80/Kapil/Kapil123/263667
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sports 18 3 FHD" tvg-logo="http://ryzen.one/logos2/sports18.jpg" group-title="IN/PK | Sports",IN | TS Sports 18 3 FHD
+http://b1g.uk:80/Kapil/Kapil123/853011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsports1hdhindi.in" tvg-name="Dstv | Tshwane Tv" tvg-logo="http://ryzen.one/logos2/star_sports1_marathi.jpg" group-title="IN/PK | Sports",Dstv | Tshwane Tv
+http://b1g.uk:80/Kapil/Kapil123/361351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WLLOHD" tvg-name="IN | WILLOW CRICKET HD" tvg-logo="http://ryzen.one/logos2/willowhd.jpg" group-title="IN/PK | Sports",IN | WILLOW CRICKET HD
+http://b1g.uk:80/Kapil/Kapil123/173031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DUPWCHD" tvg-name="US | Willow Cricket HD" tvg-logo="http://ryzen.one/logos2/willowhd.jpg" group-title="IN/PK | Sports",US | Willow Cricket HD
+http://b1g.uk:80/Kapil/Kapil123/98525
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WILXTRA" tvg-name="IN | WILLOW 2 HD" tvg-logo="http://ryzen.one/logos2/willowxtra.jpg" group-title="IN/PK | Sports",IN | WILLOW 2 HD
+http://b1g.uk:80/Kapil/Kapil123/20838
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WILXTRA" tvg-name="US | Willow Xtra HD" tvg-logo="http://ryzen.one/logos2/willowxtra.jpg" group-title="IN/PK | Sports",US | Willow Xtra HD
+http://b1g.uk:80/Kapil/Kapil123/98526
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SS CRICKET FHD" tvg-logo="http://ryzen.one/logos2/supersports_cricket.jpg" group-title="IN/PK | Sports",SS CRICKET FHD
+http://b1g.uk:80/Kapil/Kapil123/57499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ASTRO CRICKET FHD" tvg-logo="http://ryzen.one/logos2/astro_cricket.jpg" group-title="IN/PK | Sports",ASTRO CRICKET FHD
+http://b1g.uk:80/Kapil/Kapil123/20812
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Star Sports First" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBjneDJZWkUzWhrFzbHfXwnynpigT-867HEA&s" group-title="IN/PK | Sports",IN | TS Star Sports First
+http://b1g.uk:80/Kapil/Kapil123/865927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsports1hd.in" tvg-name="IN | TS Star Sports 1 FHD" tvg-logo="http://ryzen.one/logos2/star_sports1hd.jpg" group-title="IN/PK | Sports",IN | TS Star Sports 1 FHD
+http://b1g.uk:80/Kapil/Kapil123/7888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Star Sports 1" tvg-logo="" group-title="IN/PK | Sports",IN | TS Star Sports 1
+http://b1g.uk:80/Kapil/Kapil123/865926
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsports2hd.in" tvg-name="IN | TS Star Sports 2 FHD" tvg-logo="http://ryzen.one/logos2/star_sports2.jpg" group-title="IN/PK | Sports",IN | TS Star Sports 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/82400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsports2hd.in" tvg-name="IN | TS Star Sports 2 HD" tvg-logo="http://ryzen.one/logos2/star_sports2.jpg" group-title="IN/PK | Sports",IN | TS Star Sports 2 HD
+http://b1g.uk:80/Kapil/Kapil123/7887
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-TM | TS Star Sports 2 FHD" tvg-logo="" group-title="IN/PK | Sports",IN-TM | TS Star Sports 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/865966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsports3.in" tvg-name="IN | TS STAR SPORTS 3" tvg-logo="http://ryzen.one/logos2/star_sports_3.jpg" group-title="IN/PK | Sports",IN | TS STAR SPORTS 3
+http://b1g.uk:80/Kapil/Kapil123/82401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselect1hd.in" tvg-name="IN | TS Star Sports Select 1 FHD" tvg-logo="http://ryzen.one/logos2/star_sports_select_1hd.jpg" group-title="IN/PK | Sports",IN | TS Star Sports Select 1 FHD
+http://b1g.uk:80/Kapil/Kapil123/8008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselecthd2.in" tvg-name="IN | TS Star Sports Select 2 FHD" tvg-logo="http://ryzen.one/logos2/star_sports_select2.jpg" group-title="IN/PK | Sports",IN | TS Star Sports Select 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/7886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="IN | TS Sony Ten 1 FHD" tvg-logo="http://ryzen.one/logos2/sony_ten1.jpg" group-title="IN/PK | Sports",IN | TS Sony Ten 1 FHD
+http://b1g.uk:80/Kapil/Kapil123/7885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="IN | TS Sony Ten 2 FHD" tvg-logo="http://ryzen.one/logos2/sony_ten2.jpg" group-title="IN/PK | Sports",IN | TS Sony Ten 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/16119
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="IN | TS Sony Ten 3 FHD" tvg-logo="http://ryzen.one/logos2/sony_ten3.jpg" group-title="IN/PK | Sports",IN | TS Sony Ten 3 FHD
+http://b1g.uk:80/Kapil/Kapil123/16120
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony Sports Ten 3" tvg-logo="" group-title="IN/PK | Sports",IN | TS Sony Sports Ten 3
+http://b1g.uk:80/Kapil/Kapil123/865913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony Ten 4 FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Uxxydw_zjOg-dG8JxPLV94osOqKXllvjpO4U1h543fmyM.png" group-title="IN/PK | Sports",IN | TS Sony Ten 4 FHD
+http://b1g.uk:80/Kapil/Kapil123/865914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony Ten 4" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Uxxydw_zjOg-dG8JxPLV94osOqKXllvjpO4U1h543fmyM.png" group-title="IN/PK | Sports",IN | TS Sony Ten 4
+http://b1g.uk:80/Kapil/Kapil123/865917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="IN | TS Sony Ten 5 FHD" tvg-logo="http://ryzen.one/logos2/sony_ten5.jpg" group-title="IN/PK | Sports",IN | TS Sony Ten 5 FHD
+http://b1g.uk:80/Kapil/Kapil123/9085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony Sports Ten 5 FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxypQiDgYLUtJd8MdsZSPaY95qI_Lcbs2K3EWRSdNJ4K0.png" group-title="IN/PK | Sports",IN | TS Sony Sports Ten 5 FHD
+http://b1g.uk:80/Kapil/Kapil123/865916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony Sports Ten 5" tvg-logo="http://streamxcode.ddns.net:9090/logos/" group-title="IN/PK | Sports",IN | TS Sony Sports Ten 5
+http://b1g.uk:80/Kapil/Kapil123/865915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sports 18 1 FHD" tvg-logo="http://ryzen.one/logos2/sports18.jpg" group-title="IN/PK | Sports",IN | TS Sports 18 1 FHD
+http://b1g.uk:80/Kapil/Kapil123/415465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sports 18 1" tvg-logo="https://rolextv.one:443/images/a8vNUs1_Dm2f9uMub9OsRYLC_FDr7RcD_0coCYquD3VhPNm64rH8VUl9hvBVZiWN.jpg" group-title="IN/PK | Sports",IN | TS Sports 18 1
+http://b1g.uk:80/Kapil/Kapil123/865919
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts840" tvg-name="IN | TS Sports 18 2 FHD" tvg-logo="http://ryzen.one/logos2/sports18.jpg" group-title="IN/PK | Sports",IN | TS Sports 18 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/853010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sports 18 2" tvg-logo="data:image/png;base64,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" group-title="IN/PK | Sports",IN | TS Sports 18 2
+http://b1g.uk:80/Kapil/Kapil123/865920
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sports 18 3" tvg-logo="" group-title="IN/PK | Sports",IN | TS Sports 18 3
+http://b1g.uk:80/Kapil/Kapil123/865921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | FD Sports 18 Khel" tvg-logo="http://ryzen.one/logos2/sports18_khel.jpg" group-title="IN/PK | Sports",IN | FD Sports 18 Khel
+http://b1g.uk:80/Kapil/Kapil123/417606
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts815" tvg-name="IN | TS 1s Sports" tvg-logo="http://ryzen.one/logos2/1s_sports.jpg" group-title="IN/PK | Sports",IN | TS 1s Sports
+http://b1g.uk:80/Kapil/Kapil123/20986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddsports.in" tvg-name="IN | TS DD Sports" tvg-logo="http://ryzen.one/logos2/dd_sports.jpg" group-title="IN/PK | Sports",IN | TS DD Sports
+http://b1g.uk:80/Kapil/Kapil123/20948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-GUJ | TS Prarthana TV" tvg-logo="" group-title="INR  | Gujrati",IN-GUJ | TS Prarthana TV
+http://b1g.uk:80/Kapil/Kapil123/865936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsgujarati.in" tvg-name="IN-GUJ | VT COLORS FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Gujarati.png" group-title="INR  | Gujrati",IN-GUJ | VT COLORS FHD
+http://b1g.uk:80/Kapil/Kapil123/235968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsgujarati.in" tvg-name="IN-GUJ | TS Colors TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Gujarati.png" group-title="INR  | Gujrati",IN-GUJ | TS Colors TV
+http://b1g.uk:80/Kapil/Kapil123/20020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsgujarati.in" tvg-name="IN-GUJ | D2H Colors Gujrati" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Gujarati.png" group-title="INR  | Gujrati",IN-GUJ | D2H Colors Gujrati
+http://b1g.uk:80/Kapil/Kapil123/164437
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zee24kalak.in" tvg-name="IN-GUJ | TS Zee 24 Kalak" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-24-Kalak.png" group-title="INR  | Gujrati",IN-GUJ | TS Zee 24 Kalak
+http://b1g.uk:80/Kapil/Kapil123/15141
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyyay.in" tvg-name="IN-GUJ | D2H Sony Yay" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sony-Yay-1.png" group-title="INR  | Gujrati",IN-GUJ | D2H Sony Yay
+http://b1g.uk:80/Kapil/Kapil123/407117
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonicnickelodeon.in" tvg-name="IN-GUJ | D2H Sonic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png" group-title="INR  | Gujrati",IN-GUJ | D2H Sonic
+http://b1g.uk:80/Kapil/Kapil123/161907
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abpasmita.in" tvg-name="IN-GUJ | D2H ABP Asmitha" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Asmita.png" group-title="INR  | Gujrati",IN-GUJ | D2H ABP Asmitha
+http://b1g.uk:80/Kapil/Kapil123/192735
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abpasmita.in" tvg-name="IN-GUJ | TS ABP Asmita" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Asmita.png" group-title="INR  | Gujrati",IN-GUJ | TS ABP Asmita
+http://b1g.uk:80/Kapil/Kapil123/20650
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-GUJ | TS Mantavya News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mantavya-News.png" group-title="INR  | Gujrati",IN-GUJ | TS Mantavya News
+http://b1g.uk:80/Kapil/Kapil123/664418
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-GUJ | TS Lakshya TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Lakshya-TV.png" group-title="INR  | Gujrati",IN-GUJ | TS Lakshya TV
+http://b1g.uk:80/Kapil/Kapil123/664411
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-GUJ | TS Valam TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Valam-TV.png" group-title="INR  | Gujrati",IN-GUJ | TS Valam TV
+http://b1g.uk:80/Kapil/Kapil123/664410
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-GUJ | TS Swar Shree" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Swar-Shree.png" group-title="INR  | Gujrati",IN-GUJ | TS Swar Shree
+http://b1g.uk:80/Kapil/Kapil123/664409
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-GUJ | SHIKSHA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shiksha.png" group-title="INR  | Gujrati",IN-GUJ | SHIKSHA TV
+http://b1g.uk:80/Kapil/Kapil123/163760
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddgirnar.in" tvg-name="IN-GUJ | TS DD Girnar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Ginrar.png" group-title="INR  | Gujrati",IN-GUJ | TS DD Girnar
+http://b1g.uk:80/Kapil/Kapil123/20649
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-GUJ | KALYAN TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalyan-TV.png" group-title="INR  | Gujrati",IN-GUJ | KALYAN TV
+http://b1g.uk:80/Kapil/Kapil123/20645
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts840" tvg-name="IN-GUJ | Kartavya TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kartavya-TV.png" group-title="INR  | Gujrati",IN-GUJ | Kartavya TV
+http://b1g.uk:80/Kapil/Kapil123/21234
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gstv.in" tvg-name="IN-GUJ | GUJRAT SAMACHAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gujarat-Samachar-TV.png" group-title="INR  | Gujrati",IN-GUJ | GUJRAT SAMACHAR TV
+http://b1g.uk:80/Kapil/Kapil123/20644
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv9bharatvarsh.in" tvg-name="IN-GUJ | TS TV9 BharaTVarsh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharatvarsh.png" group-title="INR  | Gujrati",IN-GUJ | TS TV9 BharaTVarsh
+http://b1g.uk:80/Kapil/Kapil123/20648
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianews.in" tvg-name="IN-GUJ | TS India News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News.png" group-title="INR  | Gujrati",IN-GUJ | TS India News
+http://b1g.uk:80/Kapil/Kapil123/86091
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnbcbajar.in" tvg-name="IN-GUJ | TS CNBC Bazar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-Bajaar.png" group-title="INR  | Gujrati",IN-GUJ | TS CNBC Bazar
+http://b1g.uk:80/Kapil/Kapil123/20647
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="prarthanatv.in" tvg-name="IN-GUJ | PRARTHANA BHAWAN" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Prarthana.png" group-title="INR  | Gujrati",IN-GUJ | PRARTHANA BHAWAN
+http://b1g.uk:80/Kapil/Kapil123/192736
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18gujarati.in" tvg-name="IN-GUJ | D2H News18 Gujarati" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Gujarati.png" group-title="INR  | Gujrati",IN-GUJ | D2H News18 Gujarati
+http://b1g.uk:80/Kapil/Kapil123/192737
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="944" tvg-name="IN-GUJ | D2H Mantavya News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mantavya-News.png" group-title="INR  | Gujrati",IN-GUJ | D2H Mantavya News
+http://b1g.uk:80/Kapil/Kapil123/20639
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sandeshnews.in" tvg-name="IN-GUJ | TS Sandesh News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sandesh-News.png" group-title="INR  | Gujrati",IN-GUJ | TS Sandesh News
+http://b1g.uk:80/Kapil/Kapil123/20642
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vtvnews.in" tvg-name="IN-GUJ | TS VTV News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/VTV-News.png" group-title="INR  | Gujrati",IN-GUJ | TS VTV News
+http://b1g.uk:80/Kapil/Kapil123/20640
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv9gujarati.in" tvg-name="IN-GUJ | TS TV9 Gujarati" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharatvarsh.png" group-title="INR  | Gujrati",IN-GUJ | TS TV9 Gujarati
+http://b1g.uk:80/Kapil/Kapil123/20641
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1069" tvg-name="IN-GUJ | Vande Gujarat 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 1
+http://b1g.uk:80/Kapil/Kapil123/233927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1070" tvg-name="IN-GUJ | Vande Gujarat 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 2
+http://b1g.uk:80/Kapil/Kapil123/233928
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1082" tvg-name="IN-GUJ | Vande Gujarat 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 3
+http://b1g.uk:80/Kapil/Kapil123/233929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1071" tvg-name="IN-GUJ | Vande Gujarat 4" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 4
+http://b1g.uk:80/Kapil/Kapil123/233930
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1083" tvg-name="IN-GUJ | Vande Gujarat 5" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 5
+http://b1g.uk:80/Kapil/Kapil123/233931
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1084" tvg-name="IN-GUJ | Vande Gujarat 6" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 6
+http://b1g.uk:80/Kapil/Kapil123/233932
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1085" tvg-name="IN-GUJ | Vande Gujarat 7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 7
+http://b1g.uk:80/Kapil/Kapil123/233933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1086" tvg-name="IN-GUJ | Vande Gujarat 8" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 8
+http://b1g.uk:80/Kapil/Kapil123/233934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1087" tvg-name="IN-GUJ | Vande Gujarat 9" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 9
+http://b1g.uk:80/Kapil/Kapil123/233935
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1088" tvg-name="IN-GUJ | Vande Gujarat 10" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 10
+http://b1g.uk:80/Kapil/Kapil123/233936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1089" tvg-name="IN-GUJ | Vande Gujarat 11" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 11
+http://b1g.uk:80/Kapil/Kapil123/233937
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1090" tvg-name="IN-GUJ | Vande Gujarat 12" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 12
+http://b1g.uk:80/Kapil/Kapil123/233938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1091" tvg-name="IN-GUJ | Vande Gujarat 13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 13
+http://b1g.uk:80/Kapil/Kapil123/233939
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1092" tvg-name="IN-GUJ | Vande Gujarat 14" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 14
+http://b1g.uk:80/Kapil/Kapil123/233940
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1093" tvg-name="IN-GUJ | Vande Gujarat 15" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 15
+http://b1g.uk:80/Kapil/Kapil123/233941
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1094" tvg-name="IN-GUJ | Vande Gujarat 16" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="INR  | Gujrati",IN-GUJ | Vande Gujarat 16
+http://b1g.uk:80/Kapil/Kapil123/233942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsmarathihd.in" tvg-name="IN-MAR | D2H Colors FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Marathi-SD.png" group-title="INR | Marathi",IN-MAR | D2H Colors FHD
+http://b1g.uk:80/Kapil/Kapil123/20919
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsmarathihd.in" tvg-name="IN-MAR | TS Colors FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Marathi-1.png" group-title="INR | Marathi",IN-MAR | TS Colors FHD
+http://b1g.uk:80/Kapil/Kapil123/14155
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsmarathihd.in" tvg-name="IN-MAR | VT COLORS FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Marathi-SD.png" group-title="INR | Marathi",IN-MAR | VT COLORS FHD
+http://b1g.uk:80/Kapil/Kapil123/235965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorsmarathihd.in" tvg-name="IN-MAR | D2H Colors" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Marathi-SD.png" group-title="INR | Marathi",IN-MAR | D2H Colors
+http://b1g.uk:80/Kapil/Kapil123/166322
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starpravahhd.in" tvg-name="IN-MAR | D2H Star Pravah FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Paravah.png" group-title="INR | Marathi",IN-MAR | D2H Star Pravah FHD
+http://b1g.uk:80/Kapil/Kapil123/161934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starpravahhd.in" tvg-name="IN-MAR | TS Star Pravah FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Paravah.png" group-title="INR | Marathi",IN-MAR | TS Star Pravah FHD
+http://b1g.uk:80/Kapil/Kapil123/14153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonymarathi.in" tvg-name="IN-MAR | D2H Sony Marathi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sony-Marathi.png" group-title="INR | Marathi",IN-MAR | D2H Sony Marathi
+http://b1g.uk:80/Kapil/Kapil123/164434
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonymarathi.in" tvg-name="IN-MAR | TS Sony FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sony-Marathi.png" group-title="INR | Marathi",IN-MAR | TS Sony FHD
+http://b1g.uk:80/Kapil/Kapil123/70377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeemarathihd.in" tvg-name="IN-MAR | D2H Zee Marathi FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="INR | Marathi",IN-MAR | D2H Zee Marathi FHD
+http://b1g.uk:80/Kapil/Kapil123/164436
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeemarathihd.in" tvg-name="IN-PUNJ | TS Zee Punjabi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="INR | Marathi",IN-PUNJ | TS Zee Punjabi
+http://b1g.uk:80/Kapil/Kapil123/164435
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeemarathihd.in" tvg-name="IN-MAR | TS Zee FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="INR | Marathi",IN-MAR | TS Zee FHD
+http://b1g.uk:80/Kapil/Kapil123/13525
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS Zee Talkies" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Talkies.png" group-title="INR | Marathi",IN-MAR | TS Zee Talkies
+http://b1g.uk:80/Kapil/Kapil123/663498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeeyuva.in" tvg-name="IN-MAR | D2H Zee Yuva" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Yuva.png" group-title="INR | Marathi",IN-MAR | D2H Zee Yuva
+http://b1g.uk:80/Kapil/Kapil123/20817
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeeyuva.in" tvg-name="IN-MAR | TS Zee Yuva" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Yuva.png" group-title="INR | Marathi",IN-MAR | TS Zee Yuva
+http://b1g.uk:80/Kapil/Kapil123/12394
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS Media 9" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-9.png" group-title="INR | Marathi",IN-MAR | TS Media 9
+http://b1g.uk:80/Kapil/Kapil123/663489
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS Lokshahi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Loksahi.png" group-title="INR | Marathi",IN-MAR | TS Lokshahi
+http://b1g.uk:80/Kapil/Kapil123/663488
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS In Goa 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Goa-247.png" group-title="INR | Marathi",IN-MAR | TS In Goa 24x7
+http://b1g.uk:80/Kapil/Kapil123/663486
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | FD Zee Chitra Mandir" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cithra-copy.png" group-title="INR | Marathi",IN-MAR | FD Zee Chitra Mandir
+http://b1g.uk:80/Kapil/Kapil123/417601
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24taas.in" tvg-name="IN-MAR | TS Zee 24 Taas" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tas.png" group-title="INR | Marathi",IN-MAR | TS Zee 24 Taas
+http://b1g.uk:80/Kapil/Kapil123/20923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyyay.in" tvg-name="IN-MAR | D2H Sony Yay" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sony-Yay.png" group-title="INR | Marathi",IN-MAR | D2H Sony Yay
+http://b1g.uk:80/Kapil/Kapil123/407127
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS Sony Yay" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sony-Yay.png" group-title="INR | Marathi",IN-MAR | TS Sony Yay
+http://b1g.uk:80/Kapil/Kapil123/663495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="9xjhakaas.in" tvg-name="IN-MAR | TS 9x Jhakaas" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/9X-Jhakaas.png" group-title="INR | Marathi",IN-MAR | TS 9x Jhakaas
+http://b1g.uk:80/Kapil/Kapil123/20922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv9marathi.in" tvg-name="IN-MAR | TS Tv9 Marathi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-9.png" group-title="INR | Marathi",IN-MAR | TS Tv9 Marathi
+http://b1g.uk:80/Kapil/Kapil123/163755
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv9marathi.in" tvg-name="IN-MAR | TV9 MAHARASHTRA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-9.png" group-title="INR | Marathi",IN-MAR | TV9 MAHARASHTRA
+http://b1g.uk:80/Kapil/Kapil123/20924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="faktmarathi.in" tvg-name="IN-MAR | FD Fakt Marathi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fakt-Marathi.png" group-title="INR | Marathi",IN-MAR | FD Fakt Marathi
+http://b1g.uk:80/Kapil/Kapil123/417603
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="faktmarathi.in" tvg-name="IN-MAR | TS Fakt Marathi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fakt-Marathi.png" group-title="INR | Marathi",IN-MAR | TS Fakt Marathi
+http://b1g.uk:80/Kapil/Kapil123/20920
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="suntv.in" tvg-name="IN-MAR | FD Sun TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun.png" group-title="INR | Marathi",IN-MAR | FD Sun TV
+http://b1g.uk:80/Kapil/Kapil123/417605
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shemaroomarathibana.in" tvg-name="IN-MAR | FD Sheemaroo Marathi Bana" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shemaroo-MarathiBana.png" group-title="INR | Marathi",IN-MAR | FD Sheemaroo Marathi Bana
+http://b1g.uk:80/Kapil/Kapil123/417604
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shemaroomarathibana.in" tvg-name="IN-MAR | TS Shemaroo Marathibana" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shemaroo-MarathiBana.png" group-title="INR | Marathi",IN-MAR | TS Shemaroo Marathibana
+http://b1g.uk:80/Kapil/Kapil123/166308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="saamtv.in" tvg-name="IN-MAR | TS Saam Tv" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Saam-TV.png" group-title="INR | Marathi",IN-MAR | TS Saam Tv
+http://b1g.uk:80/Kapil/Kapil123/20918
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | SAMARA NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Samara-News.png" group-title="INR | Marathi",IN-MAR | SAMARA NEWS
+http://b1g.uk:80/Kapil/Kapil123/163756
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sangeetmarathi.in" tvg-name="IN-MAR | TS Sangeet Marathi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sangeet-Marathi.png" group-title="INR | Marathi",IN-MAR | TS Sangeet Marathi
+http://b1g.uk:80/Kapil/Kapil123/20917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddsahyadri.in" tvg-name="IN-MAR | FD DD Sahyadri" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Sahyadri.png" group-title="INR | Marathi",IN-MAR | FD DD Sahyadri
+http://b1g.uk:80/Kapil/Kapil123/417602
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddyadagiri.in" tvg-name="IN-MAR | D2H Dd Sahyadri" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Sahyadri.png" group-title="INR | Marathi",IN-MAR | D2H Dd Sahyadri
+http://b1g.uk:80/Kapil/Kapil123/20921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddsahyadri.in" tvg-name="IN-MAR | TS DD Sahyadri" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Sahyadri.png" group-title="INR | Marathi",IN-MAR | TS DD Sahyadri
+http://b1g.uk:80/Kapil/Kapil123/163757
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="theqindia.in" tvg-name="IN-MAR | THE Q MARATHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/The-Q.png" group-title="INR | Marathi",IN-MAR | THE Q MARATHI
+http://b1g.uk:80/Kapil/Kapil123/20972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abpmajha.in" tvg-name="IN-MAR | D2H ABP Majha" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Majha.png" group-title="INR | Marathi",IN-MAR | D2H ABP Majha
+http://b1g.uk:80/Kapil/Kapil123/166320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abpmajha.in" tvg-name="IN-MAR | TS ABP Majha" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Majha.png" group-title="INR | Marathi",IN-MAR | TS ABP Majha
+http://b1g.uk:80/Kapil/Kapil123/20930
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18lokmat.in" tvg-name="IN-MAR | D2H News18 Lokmat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Lokmat.png" group-title="INR | Marathi",IN-MAR | D2H News18 Lokmat
+http://b1g.uk:80/Kapil/Kapil123/192756
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18lokmat.in" tvg-name="IN-MAR | TS News18 Lokmat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Lokmat.png" group-title="INR | Marathi",IN-MAR | TS News18 Lokmat
+http://b1g.uk:80/Kapil/Kapil123/20927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS Jai Maharashtra" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jai-Maharashtra.png" group-title="INR | Marathi",IN-MAR | TS Jai Maharashtra
+http://b1g.uk:80/Kapil/Kapil123/663487
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS News State Maharashtra Goa" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-Maharashtra-Goa.png" group-title="INR | Marathi",IN-MAR | TS News State Maharashtra Goa
+http://b1g.uk:80/Kapil/Kapil123/663490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="loksabhatv.in" tvg-name="IN-MAR | D2H Lokshahi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Loksahi.png" group-title="INR | Marathi",IN-MAR | D2H Lokshahi
+http://b1g.uk:80/Kapil/Kapil123/166321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonicnickelodeon.in" tvg-name="IN-MAR | D2H Sonic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic.png" group-title="INR | Marathi",IN-MAR | D2H Sonic
+http://b1g.uk:80/Kapil/Kapil123/161910
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonicnickelodeon.in" tvg-name="IN-MAR | TS Sonic Nickelodeon" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic.png" group-title="INR | Marathi",IN-MAR | TS Sonic Nickelodeon
+http://b1g.uk:80/Kapil/Kapil123/663494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-MAR | TS Tata Play Toons+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons-copy.png" group-title="INR | Marathi",IN-MAR | TS Tata Play Toons+
+http://b1g.uk:80/Kapil/Kapil123/663496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nick.in" tvg-name="IN-MAR | TS Nick" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nick.png" group-title="INR | Marathi",IN-MAR | TS Nick
+http://b1g.uk:80/Kapil/Kapil123/663491
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event1" tvg-name="Sky Sports+ 01 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 01 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824592
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event2" tvg-name="Sky Sports+ 02 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 02 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824591
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event3" tvg-name="Sky Sports+ 03 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 03 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824590
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event4" tvg-name="Sky Sports+ 04 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 04 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824589
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event5" tvg-name="Sky Sports+ 05 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 05 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824588
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event6" tvg-name="Sky Sports+ 06 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 06 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824587
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event7" tvg-name="Sky Sports+ 07 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 07 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824586
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event8" tvg-name="Sky Sports+ 08 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 08 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824585
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event9" tvg-name="Sky Sports+ 09 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 09 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824584
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event10" tvg-name="Sky Sports+ 10 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 10 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824583
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event11" tvg-name="Sky Sports+ 11 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 11 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824582
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event12" tvg-name="Sky Sports+ 12 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 12 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824581
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event13" tvg-name="Sky Sports+ 13 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 13 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824580
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event14" tvg-name="Sky Sports+ 14 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 14 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824579
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event15" tvg-name="Sky Sports+ 15 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 15 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824578
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event16" tvg-name="Sky Sports+ 16 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 16 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824577
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event17" tvg-name="Sky Sports+ 17 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 17 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824576
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event18" tvg-name="Sky Sports+ 18 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 18 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824575
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event19" tvg-name="Sky Sports+ 19 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 19 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824574
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event20" tvg-name="Sky Sports+ 20 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 20 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824573
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event21" tvg-name="Sky Sports+ 21 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 21 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824572
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event22" tvg-name="Sky Sports+ 22 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 22 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824571
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event23" tvg-name="Sky Sports+ 23 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 23 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824570
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event24" tvg-name="Sky Sports+ 24 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 24 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824569
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event25" tvg-name="Sky Sports+ 25 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 25 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824568
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event26" tvg-name="Sky Sports+ 26 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 26 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824567
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event27" tvg-name="Sky Sports+ 27 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 27 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824566
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event28" tvg-name="Sky Sports+ 28 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 28 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824565
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event29" tvg-name="Sky Sports+ 29 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 29 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824564
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event30" tvg-name="Sky Sports+ 30 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 30 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824563
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event31" tvg-name="Sky Sports+ 31 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 31 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824562
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event32" tvg-name="Sky Sports+ 32 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 32 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824561
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event33" tvg-name="Sky Sports+ 33 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 33 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824560
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event34" tvg-name="Sky Sports+ 34 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 34 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824559
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event35" tvg-name="Sky Sports+ 35 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 35 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824558
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event36" tvg-name="Sky Sports+ 36 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 36 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824557
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event37" tvg-name="Sky Sports+ 37 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 37 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824556
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event38" tvg-name="Sky Sports+ 38 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 38 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824555
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event39" tvg-name="Sky Sports+ 39 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 39 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824554
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event40" tvg-name="Sky Sports+ 40 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 40 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/824553
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event41" tvg-name="Sky Sports+ 41 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 41 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event42" tvg-name="Sky Sports+ 42 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 42 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event43" tvg-name="Sky Sports+ 43 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 43 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event44" tvg-name="Sky Sports+ 44 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 44 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event45" tvg-name="Sky Sports+ 45 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 45 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event46" tvg-name="Sky Sports+ 46 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 46 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event47" tvg-name="Sky Sports+ 47 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 47 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event48" tvg-name="Sky Sports+ 48 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 48 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event49" tvg-name="Sky Sports+ 49 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 49 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymulti/event50" tvg-name="Sky Sports+ 50 (Live Event Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+",Sky Sports+ 50 (Live Event Only)
+http://b1g.uk:80/Kapil/Kapil123/945059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 FHD
+http://b1g.uk:80/Kapil/Kapil123/709263
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 HD
+http://b1g.uk:80/Kapil/Kapil123/709262
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/709261
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 HD
+http://b1g.uk:80/Kapil/Kapil123/709260
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 3 FHD
+http://b1g.uk:80/Kapil/Kapil123/848961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 HD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 3 HD
+http://b1g.uk:80/Kapil/Kapil123/945703
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 4 FHD
+http://b1g.uk:80/Kapil/Kapil123/848960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 HD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 4 HD
+http://b1g.uk:80/Kapil/Kapil123/945704
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague5.my" tvg-name="MY | Astro Premier League 5 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 5 FHD
+http://b1g.uk:80/Kapil/Kapil123/848959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague5.my" tvg-name="MY | Astro Premier League 5 HD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 5 HD
+http://b1g.uk:80/Kapil/Kapil123/945705
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand FHD
+http://b1g.uk:80/Kapil/Kapil123/709259
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand HD
+http://b1g.uk:80/Kapil/Kapil123/709258
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football FHD
+http://b1g.uk:80/Kapil/Kapil123/709257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football HD
+http://b1g.uk:80/Kapil/Kapil123/709256
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroCricket.my" tvg-name="MY | Astro Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" group-title="SPORTS | Astro Sports",MY | Astro Cricket FHD
+http://b1g.uk:80/Kapil/Kapil123/709264
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton.my" tvg-name="MY | Astro Badminton" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" group-title="SPORTS | Astro Sports",MY | Astro Badminton
+http://b1g.uk:80/Kapil/Kapil123/848711
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton2.my" tvg-name="MY | Astro Badminton 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton_2.png" group-title="SPORTS | Astro Sports",MY | Astro Badminton 2
+http://b1g.uk:80/Kapil/Kapil123/848710
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",MY | W-Sport FHD
+http://b1g.uk:80/Kapil/Kapil123/709252
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MY | beIN Sports 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 1 FHD
+http://b1g.uk:80/Kapil/Kapil123/837115
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports2.my" tvg-name="MY | beIN Sports 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/837114
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bEINSPORTS3.my" tvg-name="MY | beIN Sports 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 3 FHD
+http://b1g.uk:80/Kapil/Kapil123/837113
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="SPORTS | Astro Sports",MY | WWE Network HD
+http://b1g.uk:80/Kapil/Kapil123/709248
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name="MY | SkyNet Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="SPORTS | Astro Sports",MY | SkyNet Golf FHD
+http://b1g.uk:80/Kapil/Kapil123/709249
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFoxSportsUltra.au" tvg-name="MY | GNIX Sports HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" group-title="SPORTS | Astro Sports",MY | GNIX Sports HD
+http://b1g.uk:80/Kapil/Kapil123/709255
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name="MY | Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena FHD
+http://b1g.uk:80/Kapil/Kapil123/709254
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/709266
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV HD
+http://b1g.uk:80/Kapil/Kapil123/709253
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",MY | SPOTV FHD
+http://b1g.uk:80/Kapil/Kapil123/709251
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Astro Sports",MY | SPOTV 2 FHD
+http://b1g.uk:80/Kapil/Kapil123/709250
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsMainEvent.uk" tvg-name="UK-Sky Sports Main Event FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="UK | Sky Sports",UK-Sky Sports Main Event FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35796
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsMainEvent.uk" tvg-name="UK-Sky Sports Main Event FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="UK | Sky Sports",UK-Sky Sports Main Event FHD
+http://b1g.uk:80/Kapil/Kapil123/20172
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsMainEvent.uk" tvg-name="UK-Sky Sports Main Event HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="UK | Sky Sports",UK-Sky Sports Main Event HD
+http://b1g.uk:80/Kapil/Kapil123/164493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsNews.uk" tvg-name="UK-Sky Sports News FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="UK | Sky Sports",UK-Sky Sports News FHD
+http://b1g.uk:80/Kapil/Kapil123/15269
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsNews.uk" tvg-name="UK-Sky Sports News HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="UK | Sky Sports",UK-Sky Sports News HD
+http://b1g.uk:80/Kapil/Kapil123/814688
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsNews.uk" tvg-name="UK-Sky Sports News SD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="UK | Sky Sports",UK-Sky Sports News SD
+http://b1g.uk:80/Kapil/Kapil123/164506
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsCricket.uk" tvg-name="UK-Sky Sports Cricket FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="UK | Sky Sports",UK-Sky Sports Cricket FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsCricket.uk" tvg-name="UK-Sky Sports Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="UK | Sky Sports",UK-Sky Sports Cricket FHD
+http://b1g.uk:80/Kapil/Kapil123/20169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsCricket.uk" tvg-name="UK-Sky Sports Cricket HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="UK | Sky Sports",UK-Sky Sports Cricket HD*
+http://b1g.uk:80/Kapil/Kapil123/164497
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="UK-Sky Sports Football FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="UK | Sky Sports",UK-Sky Sports Football FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35798
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="UK-Sky Sports Football FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="UK | Sky Sports",UK-Sky Sports Football FHD HEVC
+http://b1g.uk:80/Kapil/Kapil123/20170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="UK-Sky Sports Football HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="UK | Sky Sports",UK-Sky Sports Football HD*
+http://b1g.uk:80/Kapil/Kapil123/164495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsPremierLeague.uk" tvg-name="UK-Sky Sports Premier League FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="UK | Sky Sports",UK-Sky Sports Premier League FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35797
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsPremierLeague.uk" tvg-name="UK-Sky Sports Premier League FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="UK | Sky Sports",UK-Sky Sports Premier League FHD
+http://b1g.uk:80/Kapil/Kapil123/20171
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsPremierLeague.uk" tvg-name="UK-Sky Sports Premier League HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="UK | Sky Sports",UK-Sky Sports Premier League HD
+http://b1g.uk:80/Kapil/Kapil123/814690
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsPremierLeague.uk" tvg-name="UK-Sky Sports Premier League SD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="UK | Sky Sports",UK-Sky Sports Premier League SD*
+http://b1g.uk:80/Kapil/Kapil123/164499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsGolf.uk" tvg-name="UK-Sky Sports Golf FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="UK | Sky Sports",UK-Sky Sports Golf FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsGolf.uk" tvg-name="UK-Sky Sports Golf FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="UK | Sky Sports",UK-Sky Sports Golf FHD HEVC
+http://b1g.uk:80/Kapil/Kapil123/20168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsGolf.uk" tvg-name="UK-Sky Sports Golf HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="UK | Sky Sports",UK-Sky Sports Golf HD*
+http://b1g.uk:80/Kapil/Kapil123/164498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsF1.uk" tvg-name="UK-Sky Sports F1 FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="UK | Sky Sports",UK-Sky Sports F1 FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35803
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsF1.uk" tvg-name="UK-Sky Sports F1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="UK | Sky Sports",UK-Sky Sports F1 FHD
+http://b1g.uk:80/Kapil/Kapil123/20167
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsF1.uk" tvg-name="UK-Sky Sports F1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="UK | Sky Sports",UK-Sky Sports F1 HD
+http://b1g.uk:80/Kapil/Kapil123/164500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsTennis.uk" tvg-name="UK-Sky Sports Tennis FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="UK | Sky Sports",UK-Sky Sports Tennis FHD
+http://b1g.uk:80/Kapil/Kapil123/744772
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsTennis.uk" tvg-name="UK-Sky Sports Tennis HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="UK | Sky Sports",UK-Sky Sports Tennis HD
+http://b1g.uk:80/Kapil/Kapil123/744771
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsTennis.uk" tvg-name="UK-Sky Sports Tennis SD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="UK | Sky Sports",UK-Sky Sports Tennis SD
+http://b1g.uk:80/Kapil/Kapil123/744770
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsAction.uk" tvg-name="UK-Sky Sports Action FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Action.png" group-title="UK | Sky Sports",UK-Sky Sports Action FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsAction.uk" tvg-name="UK-Sky Sports Action FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Action.png" group-title="UK | Sky Sports",UK-Sky Sports Action FHD HEVC
+http://b1g.uk:80/Kapil/Kapil123/20166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsAction.uk" tvg-name="UK-Sky Sports Action HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Action.png" group-title="UK | Sky Sports",UK-Sky Sports Action HD*
+http://b1g.uk:80/Kapil/Kapil123/164496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsPlus.uk" tvg-name="UK-Sky Sports+ FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="UK | Sky Sports",UK-Sky Sports+ FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsPlus.uk" tvg-name="UK-Sky Sports+ FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="UK | Sky Sports",UK-Sky Sports+ FHD HEVC
+http://b1g.uk:80/Kapil/Kapil123/20165
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsPlus.uk" tvg-name="UK-Sky Sports+ HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="UK | Sky Sports",UK-Sky Sports+ HD*
+http://b1g.uk:80/Kapil/Kapil123/164494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsMix.uk" tvg-name="UK-Sky Sports Mix FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="UK | Sky Sports",UK-Sky Sports Mix FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsMix.uk" tvg-name="UK-Sky Sports Mix FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="UK | Sky Sports",UK-Sky Sports Mix FHD HEVC
+http://b1g.uk:80/Kapil/Kapil123/20164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsMix.uk" tvg-name="UK-Sky Sports Mix HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="UK | Sky Sports",UK-Sky Sports Mix HD*
+http://b1g.uk:80/Kapil/Kapil123/164507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsRacing.uk" tvg-name="UK-Sky Sports Racing FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="UK | Sky Sports",UK-Sky Sports Racing FHD 50FPS
+http://b1g.uk:80/Kapil/Kapil123/35805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsRacing.uk" tvg-name="UK-Sky Sports Racing FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="UK | Sky Sports",UK-Sky Sports Racing FHD
+http://b1g.uk:80/Kapil/Kapil123/94057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsRacing.uk" tvg-name="UK-Sky Sports Racing HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="UK | Sky Sports",UK-Sky Sports Racing HD
+http://b1g.uk:80/Kapil/Kapil123/814689
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="samsungtvplus/skysportsstories" tvg-name="UK-Sky Sports Stories FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/UKSkySports.png" group-title="UK | Sky Sports",UK-Sky Sports Stories FHD
+http://b1g.uk:80/Kapil/Kapil123/949606
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="samsungtvplus/skysportsclassics" tvg-name="UK-Sky Sports Classics FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/UKSkySports.png" group-title="UK | Sky Sports",UK-Sky Sports Classics FHD
+http://b1g.uk:80/Kapil/Kapil123/949601
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="In -News | Ts Zee Bharat News" tvg-logo="http://streamxcode.ddns.net:9090/logos/" group-title="IN | News",In -News | Ts Zee Bharat News
+http://b1g.uk:80/Kapil/Kapil123/852998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeenews.in" tvg-name="IN-NEWS | TS Zee News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-News.png" group-title="IN | News",IN-NEWS | TS Zee News
+http://b1g.uk:80/Kapil/Kapil123/20834
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeenews.in" tvg-name="IN-NEWS | FD Zee News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-News.png" group-title="IN | News",IN-NEWS | FD Zee News
+http://b1g.uk:80/Kapil/Kapil123/417551
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeebusiness.in" tvg-name="IN-NEWS | TS Zee Business" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Business.png" group-title="IN | News",IN-NEWS | TS Zee Business
+http://b1g.uk:80/Kapil/Kapil123/15701
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeehindustan.in" tvg-name="IN-NEWS | TS Zee Hindustan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Hindustan.png" group-title="IN | News",IN-NEWS | TS Zee Hindustan
+http://b1g.uk:80/Kapil/Kapil123/20950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Times Now World" tvg-logo="https://mym2e.fun/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TXFkcyn186WwPZMhTIHJW-SefdD0lii4dUfGqApjUNRw.png" group-title="IN | News",IN-NEWS | TS Times Now World
+http://b1g.uk:80/Kapil/Kapil123/865950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS STV Haryana News" tvg-logo="http://streamxcode.ddns.net:9090/logos/" group-title="IN | News",IN-NEWS | TS STV Haryana News
+http://b1g.uk:80/Kapil/Kapil123/865949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Sach Bedhadak" tvg-logo="" group-title="IN | News",IN-NEWS | TS Sach Bedhadak
+http://b1g.uk:80/Kapil/Kapil123/865948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS R Bharat" tvg-logo="" group-title="IN | News",IN-NEWS | TS R Bharat
+http://b1g.uk:80/Kapil/Kapil123/865947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS News18 Kerala" tvg-logo="" group-title="IN | News",IN-NEWS | TS News18 Kerala
+http://b1g.uk:80/Kapil/Kapil123/865946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18biharjharkhand.in" tvg-name="IN-NEWS | TS Wion News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Bihar-Jharkhand.png" group-title="IN | News",IN-NEWS | TS Wion News
+http://b1g.uk:80/Kapil/Kapil123/163730
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts637" tvg-name="IN-NEWS | TS Zee Uttar Pradesh Uttarakhand" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Uttar-Pradesh-Uttarakhand.png" group-title="IN | News",IN-NEWS | TS Zee Uttar Pradesh Uttarakhand
+http://b1g.uk:80/Kapil/Kapil123/663676
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeempcg.in" tvg-name="IN-NEWS | TS Zee News MP/Chattisgarh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-MP.png" group-title="IN | News",IN-NEWS | TS Zee News MP/Chattisgarh
+http://b1g.uk:80/Kapil/Kapil123/20949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeempcg.in" tvg-name="IN-NEWS | TS Zee News MP/Chattisgarh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-MP.png" group-title="IN | News",IN-NEWS | TS Zee News MP/Chattisgarh
+http://b1g.uk:80/Kapil/Kapil123/663681
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zrajasthannews.in" tvg-name="IN-NEWS | TS Zee Rajasthan News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Rajasthan-News.png" group-title="IN | News",IN-NEWS | TS Zee Rajasthan News
+http://b1g.uk:80/Kapil/Kapil123/20944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddnewshd.in" tvg-name="IN-NEWS | TS DD News FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-News.png" group-title="IN | News",IN-NEWS | TS DD News FHD
+http://b1g.uk:80/Kapil/Kapil123/663656
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddnews.in" tvg-name="IN-NEWS | TS DD News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-News.png" group-title="IN | News",IN-NEWS | TS DD News
+http://b1g.uk:80/Kapil/Kapil123/20993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddnews.in" tvg-name="IN-NEWS | FD DD News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-News.png" group-title="IN | News",IN-NEWS | FD DD News
+http://b1g.uk:80/Kapil/Kapil123/417557
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddindia.in" tvg-name="IN-NEWS | TS DD India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-India.png" group-title="IN | News",IN-NEWS | TS DD India
+http://b1g.uk:80/Kapil/Kapil123/20996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddurdu.in" tvg-name="IN-NEWS | TS DD Urdu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Urdu.png" group-title="IN | News",IN-NEWS | TS DD Urdu
+http://b1g.uk:80/Kapil/Kapil123/21003
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddbharati.in" tvg-name="IN-NEWS | TS DD Bharati" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Bharati.png" group-title="IN | News",IN-NEWS | TS DD Bharati
+http://b1g.uk:80/Kapil/Kapil123/20998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddnational.in" tvg-name="IN-NEWS | FD DD National" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-National.png" group-title="IN | News",IN-NEWS | FD DD National
+http://b1g.uk:80/Kapil/Kapil123/417556
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddbihar.in" tvg-name="IN-NEWS | TS DD Bihar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Bihar.png" group-title="IN | News",IN-NEWS | TS DD Bihar
+http://b1g.uk:80/Kapil/Kapil123/20997
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddkashir.in" tvg-name="IN-NEWS | TS DD Kashir" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Kashir.png" group-title="IN | News",IN-NEWS | TS DD Kashir
+http://b1g.uk:80/Kapil/Kapil123/21004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddkisan.in" tvg-name="IN-NEWS | TS DD Kisan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Kisan.png" group-title="IN | News",IN-NEWS | TS DD Kisan
+http://b1g.uk:80/Kapil/Kapil123/20995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddmadhyapradesh.in" tvg-name="IN-NEWS | TS DD Madhya Pradesh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Madhya-Pradesh.png" group-title="IN | News",IN-NEWS | TS DD Madhya Pradesh
+http://b1g.uk:80/Kapil/Kapil123/20994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddrajasthan.in" tvg-name="IN-NEWS | TS DD Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Rajasthan.png" group-title="IN | News",IN-NEWS | TS DD Rajasthan
+http://b1g.uk:80/Kapil/Kapil123/20992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dduttarpradesh.in" tvg-name="IN-NEWS | DD UP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Uttar-Pradesh.png" group-title="IN | News",IN-NEWS | DD UP
+http://b1g.uk:80/Kapil/Kapil123/20990
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dduttarpradesh.in" tvg-name="IN-NEWS | TS DD Uttar Pradesh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Uttar-Pradesh.png" group-title="IN | News",IN-NEWS | TS DD Uttar Pradesh
+http://b1g.uk:80/Kapil/Kapil123/163738
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="al.jazeera.english.in" tvg-name="IN-NEWS | TS Al Jazeera" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Al-Jazeera.png" group-title="IN | News",IN-NEWS | TS Al Jazeera
+http://b1g.uk:80/Kapil/Kapil123/21020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abpnews.in" tvg-name="IN-NEWS | TS ABP News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-News.png" group-title="IN | News",IN-NEWS | TS ABP News
+http://b1g.uk:80/Kapil/Kapil123/20999
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abpnews.in" tvg-name="IN-NEWS | FD ABP News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-News.png" group-title="IN | News",IN-NEWS | FD ABP News
+http://b1g.uk:80/Kapil/Kapil123/417552
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abpnews.in" tvg-name="IN-NEWS | TS ABP Ganga" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Ganga.png" group-title="IN | News",IN-NEWS | TS ABP Ganga
+http://b1g.uk:80/Kapil/Kapil123/663677
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtvindia.in" tvg-name="IN-NEWS | FD NDTV India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV-India.png" group-title="IN | News",IN-NEWS | FD NDTV India
+http://b1g.uk:80/Kapil/Kapil123/417561
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtv24x7.in" tvg-name="IN-NEWS | TS NDTV 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV.png" group-title="IN | News",IN-NEWS | TS NDTV 24x7
+http://b1g.uk:80/Kapil/Kapil123/21022
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtv24x7.in" tvg-name="UK-NEWS | NDTV 24X7 SD*" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV.png" group-title="IN | News",UK-NEWS | NDTV 24X7 SD*
+http://b1g.uk:80/Kapil/Kapil123/17634
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtvprofit-prime.in" tvg-name="IN-NEWS | TS NDTV Profit Prime" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV-Profit-Prime.png" group-title="IN | News",IN-NEWS | TS NDTV Profit Prime
+http://b1g.uk:80/Kapil/Kapil123/21021
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtvindia.in" tvg-name="IN-NEWS | TS NDTV India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV-India.png" group-title="IN | News",IN-NEWS | TS NDTV India
+http://b1g.uk:80/Kapil/Kapil123/80310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sports18.in" tvg-name="IN-NEWS | Sahara Samay MP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sahara-Samay.png" group-title="IN | News",IN-NEWS | Sahara Samay MP
+http://b1g.uk:80/Kapil/Kapil123/20962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | Sahara Samay Bihar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sahara-Samay.png" group-title="IN | News",IN-NEWS | Sahara Samay Bihar
+http://b1g.uk:80/Kapil/Kapil123/20963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="508" tvg-name="IN-NEWS | Sahara Samay Bihar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sahara-Samay.png" group-title="IN | News",IN-NEWS | Sahara Samay Bihar
+http://b1g.uk:80/Kapil/Kapil123/20960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sports18.in" tvg-name="IN-NEWS | Sahara Samay Aalami News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sahara-Samay.png" group-title="IN | News",IN-NEWS | Sahara Samay Aalami News
+http://b1g.uk:80/Kapil/Kapil123/20961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sports18.in" tvg-name="IN-NEWS | TS Sahara Samay UP-Ukd" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sahara-Samay.png" group-title="IN | News",IN-NEWS | TS Sahara Samay UP-Ukd
+http://b1g.uk:80/Kapil/Kapil123/20959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18upuk.in" tvg-name="IN-NEWS | TS News18 Jammu Kashmir Ladakh Himachal" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Jammu-Kashmir-Ladakh-Himachal.png" group-title="IN | News",IN-NEWS | TS News18 Jammu Kashmir Ladakh Himachal
+http://b1g.uk:80/Kapil/Kapil123/663692
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18india.in" tvg-name="IN-NEWS | TS News18 Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Rajasthan.png" group-title="IN | News",IN-NEWS | TS News18 Rajasthan
+http://b1g.uk:80/Kapil/Kapil123/663687
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18biharjharkhand.in" tvg-name="IN-NEWS | TS News18 Bihar Jharkhand" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Bihar-Jharkhand.png" group-title="IN | News",IN-NEWS | TS News18 Bihar Jharkhand
+http://b1g.uk:80/Kapil/Kapil123/663678
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18india.in" tvg-name="IN-NEWS | TS News18 Uttar Pradesh Uttarakhand" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Uttar-Pradesh-Uttarakhand.png" group-title="IN | News",IN-NEWS | TS News18 Uttar Pradesh Uttarakhand
+http://b1g.uk:80/Kapil/Kapil123/663675
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18india.in" tvg-name="IN-NEWS | TS News 18 India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-India.png" group-title="IN | News",IN-NEWS | TS News 18 India
+http://b1g.uk:80/Kapil/Kapil123/21002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18india.in" tvg-name="IN-NEWS | FD News 18 India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-India.png" group-title="IN | News",IN-NEWS | FD News 18 India
+http://b1g.uk:80/Kapil/Kapil123/417562
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18mpchhattisgarh.in" tvg-name="IN-NEWS | News 18 MP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-MP.png" group-title="IN | News",IN-NEWS | News 18 MP
+http://b1g.uk:80/Kapil/Kapil123/20989
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18upuk.in" tvg-name="IN-NEWS | TS News 18 Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Rajasthan.png" group-title="IN | News",IN-NEWS | TS News 18 Rajasthan
+http://b1g.uk:80/Kapil/Kapil123/20988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18india.in" tvg-name="IN-NEWS | TS News 18 Up" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Uttar-Pradesh-Uttarakhand.png" group-title="IN | News",IN-NEWS | TS News 18 Up
+http://b1g.uk:80/Kapil/Kapil123/20987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18kerala.in" tvg-name="IN-NEWS | News 18 Kerala" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Kerala.png" group-title="IN | News",IN-NEWS | News 18 Kerala
+http://b1g.uk:80/Kapil/Kapil123/21031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18tamilnadu.in" tvg-name="IN-NEWS | News 18 Tamilnadu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Tamil-Nadu.png" group-title="IN | News",IN-NEWS | News 18 Tamilnadu
+http://b1g.uk:80/Kapil/Kapil123/21024
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18mpchhattisgarh.in" tvg-name="IN-NEWS | TS News 18 Madhyapradesh Chhattisgarh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Madhya-Pradesh-Chhattisgarh.png" group-title="IN | News",IN-NEWS | TS News 18 Madhyapradesh Chhattisgarh
+http://b1g.uk:80/Kapil/Kapil123/163729
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="timesnow.in" tvg-name="IN-NEWS | TS Times Now World FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Times-Now.png" group-title="IN | News",IN-NEWS | TS Times Now World FHD
+http://b1g.uk:80/Kapil/Kapil123/21008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="timesnow.in" tvg-name="IN-NEWS | TS Times Now Navbharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/times-now-navbharat.png" group-title="IN | News",IN-NEWS | TS Times Now Navbharat
+http://b1g.uk:80/Kapil/Kapil123/663661
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="timesnowhd.in" tvg-name="IN-NEWS | Times Now Navbharat FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/times-now-navbharat.png" group-title="IN | News",IN-NEWS | Times Now Navbharat FHD
+http://b1g.uk:80/Kapil/Kapil123/21007
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="goodnesstv.in" tvg-name="IN-NEWS | TS Good Times" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Goodtimes.png" group-title="IN | News",IN-NEWS | TS Good Times
+http://b1g.uk:80/Kapil/Kapil123/21011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="timesnow.in" tvg-name="IN-NEWS | FD Times Now Navbharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/times-now-navbharat.png" group-title="IN | News",IN-NEWS | FD Times Now Navbharat
+http://b1g.uk:80/Kapil/Kapil123/417569
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indiatv.in" tvg-name="IN-NEWS | TS India TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-TV.png" group-title="IN | News",IN-NEWS | TS India TV
+http://b1g.uk:80/Kapil/Kapil123/21023
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indiatv.in" tvg-name="IN-NEWS | FD India TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-TV.png" group-title="IN | News",IN-NEWS | FD India TV
+http://b1g.uk:80/Kapil/Kapil123/417559
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianews.in" tvg-name="IN-NEWS | TS India News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-1.png" group-title="IN | News",IN-NEWS | TS India News
+http://b1g.uk:80/Kapil/Kapil123/20977
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianewsmpch.in" tvg-name="IN-NEWS | TS India News MP Ch" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Indian-News-MP.png" group-title="IN | News",IN-NEWS | TS India News MP Ch
+http://b1g.uk:80/Kapil/Kapil123/20976
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianewsraj.in" tvg-name="IN-NEWS | TS India News Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-Rajasthan.png" group-title="IN | News",IN-NEWS | TS India News Rajasthan
+http://b1g.uk:80/Kapil/Kapil123/20975
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianewsupuk.in" tvg-name="IN-NEWS | TS India News Up" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-UP.png" group-title="IN | News",IN-NEWS | TS India News Up
+http://b1g.uk:80/Kapil/Kapil123/20974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="republictv.in" tvg-name="IN-NEWS | TS Republic TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Republic-TV.png" group-title="IN | News",IN-NEWS | TS Republic TV
+http://b1g.uk:80/Kapil/Kapil123/20857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="republictv.in" tvg-name="IN-NEWS | TS Republic Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/REPUBLIC-Bharat.png" group-title="IN | News",IN-NEWS | TS Republic Bharat
+http://b1g.uk:80/Kapil/Kapil123/7933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="republictv.in" tvg-name="IN-NEWS | FD Republic Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/REPUBLIC-Bharat.png" group-title="IN | News",IN-NEWS | FD Republic Bharat
+http://b1g.uk:80/Kapil/Kapil123/417565
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsnation.in" tvg-name="IN-NEWS | TS News Nation" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-Nation.png" group-title="IN | News",IN-NEWS | TS News Nation
+http://b1g.uk:80/Kapil/Kapil123/20966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsnation.in" tvg-name="IN-NEWS | FD News Nation" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-Nation.png" group-title="IN | News",IN-NEWS | FD News Nation
+http://b1g.uk:80/Kapil/Kapil123/417564
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wion.in" tvg-name="IN-NEWS | TS Zee Bihar Jharkhand" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Wion-News.png" group-title="IN | News",IN-NEWS | TS Zee Bihar Jharkhand
+http://b1g.uk:80/Kapil/Kapil123/163731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtvgoodtimes.in" tvg-name="IN-NEWS | TS Good News Today" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Good-News.png" group-title="IN | News",IN-NEWS | TS Good News Today
+http://b1g.uk:80/Kapil/Kapil123/20979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtvgoodtimes.in" tvg-name="IN-NEWS | TS Good News Today" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Good-News.png" group-title="IN | News",IN-NEWS | TS Good News Today
+http://b1g.uk:80/Kapil/Kapil123/20953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtvgoodtimes.in" tvg-name="IN-NEWS | FD Good News Today" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Good-News.png" group-title="IN | News",IN-NEWS | FD Good News Today
+http://b1g.uk:80/Kapil/Kapil123/417560
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indiatoday.in" tvg-name="IN-NEWS | TS India Today" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-Today.png" group-title="IN | News",IN-NEWS | TS India Today
+http://b1g.uk:80/Kapil/Kapil123/21013
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="jantatv.in" tvg-name="IN-NEWS | TS Janta TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Janta-TV.png" group-title="IN | News",IN-NEWS | TS Janta TV
+http://b1g.uk:80/Kapil/Kapil123/663693
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="jantantratv.in" tvg-name="IN-NEWS | TS Jantantra TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jantantra-TV.png" group-title="IN | News",IN-NEWS | TS Jantantra TV
+http://b1g.uk:80/Kapil/Kapil123/663671
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv9bharatvarsh.in" tvg-name="IN-NEWS | TS TV9 Bharatvarsh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV9-Bharatvarsh.png" group-title="IN | News",IN-NEWS | TS TV9 Bharatvarsh
+http://b1g.uk:80/Kapil/Kapil123/663659
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv9bharatvarsh.in" tvg-name="IN-NEWS | FD TV9 Bharatvarsh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV9-Bharatvarsh.png" group-title="IN | News",IN-NEWS | FD TV9 Bharatvarsh
+http://b1g.uk:80/Kapil/Kapil123/417568
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts213" tvg-name="IN-NEWS | TS Sansad TV - Rajya Sabha" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sansad-TV-Rajya-Sabha.png" group-title="IN | News",IN-NEWS | TS Sansad TV - Rajya Sabha
+http://b1g.uk:80/Kapil/Kapil123/663674
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts212" tvg-name="IN-NEWS | FD Sansad TV (Rajya Sabha)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sansad-TV-Rajya-Sabha.png" group-title="IN | News",IN-NEWS | FD Sansad TV (Rajya Sabha)
+http://b1g.uk:80/Kapil/Kapil123/417567
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Sansad TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sansad-TV-Rajya-Sabha.png" group-title="IN | News",IN-NEWS | TS Sansad TV FHD
+http://b1g.uk:80/Kapil/Kapil123/20991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts213" tvg-name="IN-NEWS | FD Sansad TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sansad-TV-Rajya-Sabha.png" group-title="IN | News",IN-NEWS | FD Sansad TV
+http://b1g.uk:80/Kapil/Kapil123/417566
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etnow.in" tvg-name="IN-NEWS | TS ET Now" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Untitled-3.png" group-title="IN | News",IN-NEWS | TS ET Now
+http://b1g.uk:80/Kapil/Kapil123/21025
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etnow.in" tvg-name="IN-NEWS | TS Et Now Swadesh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ET-Now-Swadesh.png" group-title="IN | News",IN-NEWS | TS Et Now Swadesh
+http://b1g.uk:80/Kapil/Kapil123/663665
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1051" tvg-name="IN-NEWS | TS Bharat Express" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharat-Express.png" group-title="IN | News",IN-NEWS | TS Bharat Express
+http://b1g.uk:80/Kapil/Kapil123/663664
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1771" tvg-name="IN-NEWS | Express News Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Express-News-Bharat.png" group-title="IN | News",IN-NEWS | Express News Bharat
+http://b1g.uk:80/Kapil/Kapil123/20964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="swarajexpress.in" tvg-name="IN-NEWS | TS Swaraj Express Smbc" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Swaraj-Express-SMBC.png" group-title="IN | News",IN-NEWS | TS Swaraj Express Smbc
+http://b1g.uk:80/Kapil/Kapil123/20956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aajtakhd.in" tvg-name="IN-NEWS | TS Aaj Tak FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak-HD.png" group-title="IN | News",IN-NEWS | TS Aaj Tak FHD
+http://b1g.uk:80/Kapil/Kapil123/12454
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aajtak.in" tvg-name="IN-NEWS | TS Aaj Tak" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak.png" group-title="IN | News",IN-NEWS | TS Aaj Tak
+http://b1g.uk:80/Kapil/Kapil123/663657
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aajtak.in" tvg-name="IN-NEWS | FD Aaj Tak" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak.png" group-title="IN | News",IN-NEWS | FD Aaj Tak
+http://b1g.uk:80/Kapil/Kapil123/417553
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aajtak.in" tvg-name="UK-NEWS | Aaj Tak SD*" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak.png" group-title="IN | News",UK-NEWS | Aaj Tak SD*
+http://b1g.uk:80/Kapil/Kapil123/15226
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sadhanatv.in" tvg-name="IN-NEWS | TS Sadhna Plus" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sadhna-Plus-News.png" group-title="IN | News",IN-NEWS | TS Sadhna Plus
+http://b1g.uk:80/Kapil/Kapil123/163735
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sadhnanews.in" tvg-name="IN-NEWS | TS Sadhna MP/Cg" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sadhna-News-MP-CG.png" group-title="IN | News",IN-NEWS | TS Sadhna MP/Cg
+http://b1g.uk:80/Kapil/Kapil123/163736
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnbc-tv18.in" tvg-name="IN-NEWS | TS CNBC TV 18" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-TV18.png" group-title="IN | News",IN-NEWS | TS CNBC TV 18
+http://b1g.uk:80/Kapil/Kapil123/21027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnbcawaaz.in" tvg-name="IN-NEWS | TS CNBC Awaaz" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-Awaaz.png" group-title="IN | News",IN-NEWS | TS CNBC Awaaz
+http://b1g.uk:80/Kapil/Kapil123/21010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnbcbajar.in" tvg-name="IN-NEWS | TS CNBC Bajar Gujrat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-Bajaar-1.png" group-title="IN | News",IN-NEWS | TS CNBC Bajar Gujrat
+http://b1g.uk:80/Kapil/Kapil123/21030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS CNBC Bajaar" tvg-logo="" group-title="IN | News",IN-NEWS | TS CNBC Bajaar
+http://b1g.uk:80/Kapil/Kapil123/865945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnintl.in" tvg-name="IN-NEWS | TS CNN News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNN.png" group-title="IN | News",IN-NEWS | TS CNN News
+http://b1g.uk:80/Kapil/Kapil123/21026
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnnews18.in" tvg-name="IN-NEWS | TS CNN News 18" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNN-News18.png" group-title="IN | News",IN-NEWS | TS CNN News 18
+http://b1g.uk:80/Kapil/Kapil123/21029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcworld.in" tvg-name="IN-NEWS | TS BBC News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/BBC-News.png" group-title="IN | News",IN-NEWS | TS BBC News
+http://b1g.uk:80/Kapil/Kapil123/21019
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1070" tvg-name="IN-NEWS | TS Media 9" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media9.png" group-title="IN | News",IN-NEWS | TS Media 9
+http://b1g.uk:80/Kapil/Kapil123/663700
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1059" tvg-name="IN-NEWS | TS Indian News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Indian-News.png" group-title="IN | News",IN-NEWS | TS Indian News
+http://b1g.uk:80/Kapil/Kapil123/663699
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1044" tvg-name="IN-NEWS | TS Global India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Global-India.png" group-title="IN | News",IN-NEWS | TS Global India
+http://b1g.uk:80/Kapil/Kapil123/663698
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1040" tvg-name="IN-NEWS | TS ANB News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jansetu.png" group-title="IN | News",IN-NEWS | TS ANB News
+http://b1g.uk:80/Kapil/Kapil123/663697
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts962" tvg-name="IN-NEWS | TS ANN News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ANN-News.png" group-title="IN | News",IN-NEWS | TS ANN News
+http://b1g.uk:80/Kapil/Kapil123/663696
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts910" tvg-name="IN-NEWS | TS C News Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/C-News-Bharat.png" group-title="IN | News",IN-NEWS | TS C News Bharat
+http://b1g.uk:80/Kapil/Kapil123/663695
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mhonenews.in" tvg-name="IN-NEWS | TS MH One News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MH1-News.png" group-title="IN | News",IN-NEWS | TS MH One News
+http://b1g.uk:80/Kapil/Kapil123/663694
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a1tv.in" tvg-name="IN-NEWS | TS A1 TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/A1-TV.png" group-title="IN | News",IN-NEWS | TS A1 TV
+http://b1g.uk:80/Kapil/Kapil123/663691
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="anjantv.in" tvg-name="IN-NEWS | TS Jan TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jan-TV.png" group-title="IN | News",IN-NEWS | TS Jan TV
+http://b1g.uk:80/Kapil/Kapil123/663690
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="firstindiarajasthan.in" tvg-name="IN-NEWS | TS First India Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/First-India-Rajasthan.png" group-title="IN | News",IN-NEWS | TS First India Rajasthan
+http://b1g.uk:80/Kapil/Kapil123/663688
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1009" tvg-name="IN-NEWS | TS TV 27 News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV27.png" group-title="IN | News",IN-NEWS | TS TV 27 News
+http://b1g.uk:80/Kapil/Kapil123/663686
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts993" tvg-name="IN-NEWS | TS News Hour" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-Hour.png" group-title="IN | News",IN-NEWS | TS News Hour
+http://b1g.uk:80/Kapil/Kapil123/663685
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="inh24x7.in" tvg-name="IN-NEWS | TS INH 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/INH-247.png" group-title="IN | News",IN-NEWS | TS INH 24x7
+http://b1g.uk:80/Kapil/Kapil123/663683
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news24.in" tvg-name="IN-NEWS | TS News 24 Madhyapradesh Chattisgarh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News24-Madhyapradesh.png" group-title="IN | News",IN-NEWS | TS News 24 Madhyapradesh Chattisgarh
+http://b1g.uk:80/Kapil/Kapil123/663684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bansalnews.in" tvg-name="IN-NEWS | TS Bansal News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bansal-News.png" group-title="IN | News",IN-NEWS | TS Bansal News
+http://b1g.uk:80/Kapil/Kapil123/663682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18biharjharkhand.in" tvg-name="IN-NEWS | TS News State Bihar Jharkhand" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-Bihar-Jharkhand.png" group-title="IN | News",IN-NEWS | TS News State Bihar Jharkhand
+http://b1g.uk:80/Kapil/Kapil123/663680
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts784" tvg-name="IN-NEWS | TS FM News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/FM-News.png" group-title="IN | News",IN-NEWS | TS FM News
+http://b1g.uk:80/Kapil/Kapil123/663673
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts988" tvg-name="IN-NEWS | TS Har Khabar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Har-Khabar.png" group-title="IN | News",IN-NEWS | TS Har Khabar
+http://b1g.uk:80/Kapil/Kapil123/663672
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts848" tvg-name="IN-NEWS | TS Network 10" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Network-10.png" group-title="IN | News",IN-NEWS | TS Network 10
+http://b1g.uk:80/Kapil/Kapil123/663670
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="khabarainabhitak.in" tvg-name="IN-NEWS | TS Khabarain Abhi Tak" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Khabar-Abhi-Tak.png" group-title="IN | News",IN-NEWS | TS Khabarain Abhi Tak
+http://b1g.uk:80/Kapil/Kapil123/663669
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hindikhabar.in" tvg-name="IN-NEWS | TS Hindi Khabar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hindi-Khabar.png" group-title="IN | News",IN-NEWS | TS Hindi Khabar
+http://b1g.uk:80/Kapil/Kapil123/663668
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news11.in" tvg-name="IN-NEWS | TS News 1 India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-1.png" group-title="IN | News",IN-NEWS | TS News 1 India
+http://b1g.uk:80/Kapil/Kapil123/663667
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts685" tvg-name="IN-NEWS | TS India Voice" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-Voice.png" group-title="IN | News",IN-NEWS | TS India Voice
+http://b1g.uk:80/Kapil/Kapil123/663666
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="suryasamachar.in" tvg-name="IN-NEWS | TS Surya Samachar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Surya-Samachar.png" group-title="IN | News",IN-NEWS | TS Surya Samachar
+http://b1g.uk:80/Kapil/Kapil123/663663
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1010" tvg-name="IN-NEWS | TS Bharat 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharat-24-1.png" group-title="IN | News",IN-NEWS | TS Bharat 24
+http://b1g.uk:80/Kapil/Kapil123/663662
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="totaltv.in" tvg-name="IN-NEWS | TS Total TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Total-TV.png" group-title="IN | News",IN-NEWS | TS Total TV
+http://b1g.uk:80/Kapil/Kapil123/663660
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsstatemadhyapradeshchhattisgarh.in" tvg-name="IN-NEWS | TS News State MP/Cg" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-MP.png" group-title="IN | News",IN-NEWS | TS News State MP/Cg
+http://b1g.uk:80/Kapil/Kapil123/163717
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | Euro News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Euro-News.png" group-title="IN | News",IN-NEWS | Euro News
+http://b1g.uk:80/Kapil/Kapil123/21014
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="jantantratv.in" tvg-name="IN-NEWS | TS Jantantra" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jantantra-TV.png" group-title="IN | News",IN-NEWS | TS Jantantra
+http://b1g.uk:80/Kapil/Kapil123/20985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cvrenglish.in" tvg-name="IN-NEWS | CVR English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTiPtiWgyOZrDKjNqtNMsLagFjHrIgupkf2qSH0bw=s900-c-k-c0x00ffffff-no-rj" group-title="IN | News",IN-NEWS | CVR English
+http://b1g.uk:80/Kapil/Kapil123/21016
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btvi.in" tvg-name="IN-NEWS | FD BTV World" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/BTV-World.png" group-title="IN | News",IN-NEWS | FD BTV World
+http://b1g.uk:80/Kapil/Kapil123/417554
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="channelnewsasia.in" tvg-name="IN-NEWS | TS Channel News Asia" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Channel-News-Asia.png" group-title="IN | News",IN-NEWS | TS Channel News Asia
+http://b1g.uk:80/Kapil/Kapil123/21017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv5mondeasie.in" tvg-name="IN-NEWS | TS TV 5 Monde" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-Monde-Asie.png" group-title="IN | News",IN-NEWS | TS TV 5 Monde
+http://b1g.uk:80/Kapil/Kapil123/21006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dw.in" tvg-name="IN-NEWS | TS DW News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DW-News.png" group-title="IN | News",IN-NEWS | TS DW News
+http://b1g.uk:80/Kapil/Kapil123/21015
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gulistannews.in" tvg-name="IN-NEWS | TS Gulistan News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gulistan-News.png" group-title="IN | News",IN-NEWS | TS Gulistan News
+http://b1g.uk:80/Kapil/Kapil123/21001
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mirrornow.in" tvg-name="IN-NEWS | TS Mirror Now" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mirror-Now.png" group-title="IN | News",IN-NEWS | TS Mirror Now
+http://b1g.uk:80/Kapil/Kapil123/21000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ibc24.in" tvg-name="IN-NEWS | TS IBC 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-24.png" group-title="IN | News",IN-NEWS | TS IBC 24
+http://b1g.uk:80/Kapil/Kapil123/20978
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="australiaplus.in" tvg-name="IN-NEWS | TS Australia TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Australia-TV.png" group-title="IN | News",IN-NEWS | TS Australia TV
+http://b1g.uk:80/Kapil/Kapil123/20973
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="france24.in" tvg-name="IN-NEWS | France 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/France-24.png" group-title="IN | News",IN-NEWS | France 24
+http://b1g.uk:80/Kapil/Kapil123/21012
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="apn.in" tvg-name="IN-NEWS | TS APN News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/APN-News.png" group-title="IN | News",IN-NEWS | TS APN News
+http://b1g.uk:80/Kapil/Kapil123/20984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kashishnews.in" tvg-name="IN-NEWS | TS Kashish News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kashish-News.png" group-title="IN | News",IN-NEWS | TS Kashish News
+http://b1g.uk:80/Kapil/Kapil123/20983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indiatoday.in" tvg-name="IN-NEWS | Today 24 News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TODAY-24-NEWS.png" group-title="IN | News",IN-NEWS | Today 24 News
+http://b1g.uk:80/Kapil/Kapil123/20982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="loksabhatv.in" tvg-name="IN-NEWS | TS Lok Sabha TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Lok-Sahiba-TV.png" group-title="IN | News",IN-NEWS | TS Lok Sabha TV
+http://b1g.uk:80/Kapil/Kapil123/20981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="primenews.in" tvg-name="IN-NEWS | TS Prime News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Prime-News.png" group-title="IN | News",IN-NEWS | TS Prime News
+http://b1g.uk:80/Kapil/Kapil123/20970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news11.in" tvg-name="IN-NEWS | TS News 11 Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-11-Bharat.png" group-title="IN | News",IN-NEWS | TS News 11 Bharat
+http://b1g.uk:80/Kapil/Kapil123/20969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sudarshannews.in" tvg-name="IN-NEWS | FD Sudarshan News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sudarshan-News.png" group-title="IN | News",IN-NEWS | FD Sudarshan News
+http://b1g.uk:80/Kapil/Kapil123/417563
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news24.in" tvg-name="IN-NEWS | TS News 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-24.png" group-title="IN | News",IN-NEWS | TS News 24
+http://b1g.uk:80/Kapil/Kapil123/20968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsindia.in" tvg-name="IN-NEWS | TS News India 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NEWS-INDIA-24x7-1.png" group-title="IN | News",IN-NEWS | TS News India 24x7
+http://b1g.uk:80/Kapil/Kapil123/20967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsstateupuk.in" tvg-name="IN-NEWS | TS News State UP-UK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-UP-Uttarakhand.png" group-title="IN | News",IN-NEWS | TS News State UP-UK
+http://b1g.uk:80/Kapil/Kapil123/20965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsx.in" tvg-name="IN-NEWS | TS News X" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NewsX.png" group-title="IN | News",IN-NEWS | TS News X
+http://b1g.uk:80/Kapil/Kapil123/21009
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Samay Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Samay.png" group-title="IN | News",IN-NEWS | TS Samay Rajasthan
+http://b1g.uk:80/Kapil/Kapil123/20958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sudarshannews.in" tvg-name="IN-NEWS | TS Sudarshan News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sudarshan-News.png" group-title="IN | News",IN-NEWS | TS Sudarshan News
+http://b1g.uk:80/Kapil/Kapil123/20955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24taas.in" tvg-name="IN-NEWS | Taaza TV News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Taaza-TV.png" group-title="IN | News",IN-NEWS | Taaza TV News
+http://b1g.uk:80/Kapil/Kapil123/20954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hindikhabar.in" tvg-name="IN-NEWS | Hindi Khabar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hindi-Khabar.png" group-title="IN | News",IN-NEWS | Hindi Khabar
+http://b1g.uk:80/Kapil/Kapil123/163732
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="totaltv.in" tvg-name="IN-NEWS | Total TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Total-TV.png" group-title="IN | News",IN-NEWS | Total TV
+http://b1g.uk:80/Kapil/Kapil123/163733
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bharatsamachar.in" tvg-name="IN-NEWS | TS Bharat Samachar" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharat-Samachar.png" group-title="IN | News",IN-NEWS | TS Bharat Samachar
+http://b1g.uk:80/Kapil/Kapil123/163739
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | Bharat 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharat-24-1.png" group-title="IN | News",IN-NEWS | Bharat 24
+http://b1g.uk:80/Kapil/Kapil123/417558
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ptcnews.in" tvg-name="IN-NEWS | TS PTC News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/PTC-News-1.png" group-title="IN | News",IN-NEWS | TS PTC News
+http://b1g.uk:80/Kapil/Kapil123/663511
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianewsharyana.in" tvg-name="IN-NEWS | TS India News Haryana" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-Haryana.png" group-title="IN | News",IN-NEWS | TS India News Haryana
+http://b1g.uk:80/Kapil/Kapil123/163737
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Zee Delhi Ncr Haryana Punjabi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Delhi-NCR-Haryana.png" group-title="IN | News",IN-NEWS | TS Zee Delhi Ncr Haryana Punjabi
+http://b1g.uk:80/Kapil/Kapil123/663518
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Zee Punjab Haryana Himachal Pradesh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Punjab-Haryana-Himachal-Pradesh.png" group-title="IN | News",IN-NEWS | TS Zee Punjab Haryana Himachal Pradesh
+http://b1g.uk:80/Kapil/Kapil123/663501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18punjabharyanahimachal.in" tvg-name="IN-NEWS | TS News18 Punjab Haryana" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Punjab-Haryana.png" group-title="IN | News",IN-NEWS | TS News18 Punjab Haryana
+http://b1g.uk:80/Kapil/Kapil123/663512
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianewspunjab.in" tvg-name="IN-NEWS | TS India News Punjab" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-Punjab.png" group-title="IN | News",IN-NEWS | TS India News Punjab
+http://b1g.uk:80/Kapil/Kapil123/163726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS ABP Sanjha Punjabi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Sanjha.png" group-title="IN | News",IN-NEWS | TS ABP Sanjha Punjabi
+http://b1g.uk:80/Kapil/Kapil123/663516
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Living India Punjabi News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Living-India-News.png" group-title="IN | News",IN-NEWS | TS Living India Punjabi News
+http://b1g.uk:80/Kapil/Kapil123/663515
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | TS Anp Punjabi News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ANB-News.png" group-title="IN | News",IN-NEWS | TS Anp Punjabi News
+http://b1g.uk:80/Kapil/Kapil123/663514
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | Fastway Punjabi News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fastway-News.png" group-title="IN | News",IN-NEWS | Fastway Punjabi News
+http://b1g.uk:80/Kapil/Kapil123/20661
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mhonenews.in" tvg-name="IN-NEWS | TS MH1 Prime Punjabi News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MH1-Shradda.png" group-title="IN | News",IN-NEWS | TS MH1 Prime Punjabi News
+http://b1g.uk:80/Kapil/Kapil123/20672
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="indianewspunjab.in" tvg-name="IN-NEWS | TS India News Punjab" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-Punjab-1.png" group-title="IN | News",IN-NEWS | TS India News Punjab
+http://b1g.uk:80/Kapil/Kapil123/663513
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-PUNJ | TS Tata Play Toons+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png" group-title="IN | News",IN-PUNJ | TS Tata Play Toons+
+http://b1g.uk:80/Kapil/Kapil123/663510
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18india.in" tvg-name="IN-NEWS | TS News18 India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-India.png" group-title="IN | News",IN-NEWS | TS News18 India
+http://b1g.uk:80/Kapil/Kapil123/161894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1056" tvg-name="IN-NEWS | TS Tata Play Har Ghar Startup" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Har-Ghar-Startup.png" group-title="IN | News",IN-NEWS | TS Tata Play Har Ghar Startup
+http://b1g.uk:80/Kapil/Kapil123/663658
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sports18.in" tvg-name="IN-NEWS | TS Zee Punjab Haryana FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Delhi-NCR-Haryana.png" group-title="IN | News",IN-NEWS | TS Zee Punjab Haryana FHD
+http://b1g.uk:80/Kapil/Kapil123/20662
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN-NEWS | Punjab Today" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Punjab-Today.png" group-title="IN | News",IN-NEWS | Punjab Today
+http://b1g.uk:80/Kapil/Kapil123/402818
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shubhtv.in" tvg-name="IN-NEWS | TS Shubh TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shubh.png" group-title="IN | News",IN-NEWS | TS Shubh TV
+http://b1g.uk:80/Kapil/Kapil123/20957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kolkatatv.in" tvg-name="IN-NEWS | TS Gujrat First" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kolkata-TV.png" group-title="IN | News",IN-NEWS | TS Gujrat First
+http://b1g.uk:80/Kapil/Kapil123/672348
