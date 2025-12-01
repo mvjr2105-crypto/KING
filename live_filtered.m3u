@@ -1093,6 +1093,12 @@ http://b1g.uk:80/Kapil/Kapil123/402818
 http://b1g.uk:80/Kapil/Kapil123/20957
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kolkatatv.in" tvg-name="IN-NEWS | TS Gujrat First" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kolkata-TV.png" group-title="IN | News",IN-NEWS | TS Gujrat First
 http://b1g.uk:80/Kapil/Kapil123/672348
-
-
+#EXTINF:-1 tvg-id="" group-title="Astro Sports" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
+https://iptvx.tgaadi.workers.dev/125900.ts
+#EXTINF:-1  tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports" radio="false",Sky Sports Cricket
+https://zamlb.tgaadi.workers.dev/1779.ts
+#EXTINF:-1 tvg-id="" group-title="4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Cricket4K.png",Star 4K
+https://tgaadix.vercel.app/api/stream/662136.m3u8
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
+https://zamlb.tgaadi.workers.dev/96988.ts
 
