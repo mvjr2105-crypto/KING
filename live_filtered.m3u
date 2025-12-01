@@ -55,8 +55,8 @@ http://b1g.uk:80/Kapil/Kapil123/12485
 http://b1g.uk:80/Kapil/Kapil123/15217
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | TS Sony SAB" tvg-logo="" group-title="IN | Entertainment",IN | TS Sony SAB
 http://b1g.uk:80/Kapil/Kapil123/865912
-https://sliv.tgaadi.workers.dev/sabhd.m3u8
 #EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony SAB" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png" group-title="Entertainment" , Sony SAB
+https://sliv.tgaadi.workers.dev/sabsd.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysabhd.in" tvg-name="IN | TS Sony Sab FHD" tvg-logo="http://ryzen.one/logos2/sony_sabhd.jpg" group-title="IN | Entertainment",IN | TS Sony Sab FHD
 http://b1g.uk:80/Kapil/Kapil123/7884
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="866" tvg-name="IN | JIO EXCLUSIVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reliance_Jio_Logo.svg/640px-Reliance_Jio_Logo.svg.png" group-title="IN | Entertainment",IN | JIO EXCLUSIVE FHD
@@ -1093,4 +1093,5 @@ http://b1g.uk:80/Kapil/Kapil123/402818
 http://b1g.uk:80/Kapil/Kapil123/20957
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kolkatatv.in" tvg-name="IN-NEWS | TS Gujrat First" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kolkata-TV.png" group-title="IN | News",IN-NEWS | TS Gujrat First
 http://b1g.uk:80/Kapil/Kapil123/672348
+
 
