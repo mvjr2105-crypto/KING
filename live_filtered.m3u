@@ -1103,5 +1103,267 @@ https://tgaadix.vercel.app/api/stream/662136.m3u8
 https://zamlb.tgaadi.workers.dev/96988.ts
 #EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony SAB(denver)" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png" group-title="IN | Entertainment", Sony SAB
 https://local.denver1769.fun/hls/sab/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Gold 4K" tvg-logo="http://b1g.fun/logos2/CineMania4K_gold.jpg" group-title="24/7 CineMania", CineMania Gold 4K
+http://b1g.uk/live/123456/12345/425732.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Netfilx FHD" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" group-title="24/7 CineMania", CineMania Netfilx FHD
+http://b1g.uk/live/123456/12345/684078.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Hollywood 4K" tvg-logo="http://b1g.fun/logos2/CineMania4K_hollywood.jpg" group-title="24/7 CineMania", CineMania Hollywood 4K
+http://b1g.uk/live/123456/12345/397719.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 4K" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 4K
+http://b1g.uk/live/123456/12345/397718.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Punjabi 4K" tvg-logo="http://b1g.fun/logos2/CineMania4K_punjabi.jpg" group-title="24/7 CineMania", CineMania Punjabi 4K
+http://b1g.uk/live/123456/12345/425730.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Tamil 4K" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="24/7 CineMania", CineMania Tamil 4K
+http://b1g.uk/live/123456/12345/425731.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Telugu 4K" tvg-logo="http://b1g.fun/logos2/CineMania4K_telugu.jpg" group-title="24/7 CineMania", CineMania Telugu 4K
+http://b1g.uk/live/123456/12345/425729.ts
+#EXTINF:-1 tvg-id="" tvg-name="*_*_*_*_* New Release 24/7 *_*_*_*_*" tvg-logo="http://b1g.fun/logos2/new_release.jpg" group-title="24/7 CineMania", *_*_*_*_* New Release 24/7 *_*_*_*_*
+http://b1g.uk/live/123456/12345/385254.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Best of New Release 1 FHD" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: Best of New Release 1 FHD
+http://b1g.uk/live/123456/12345/402957.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Best of New Release 2 FHD" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: Best of New Release 2 FHD
+http://b1g.uk/live/123456/12345/402956.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Best of New Release 3 FHD" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: Best of New Release 3 FHD
+http://b1g.uk/live/123456/12345/402955.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Best of New Release 4 FHD" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: Best of New Release 4 FHD
+http://b1g.uk/live/123456/12345/402954.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Best of New Release 5 FHD" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: Best of New Release 5 FHD
+http://b1g.uk/live/123456/12345/402953.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: New Release 1 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: New Release 1 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/402962.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: New Release 2 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: New Release 2 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/402961.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: New Release 3 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: New Release 3 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/402960.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: New Release 4 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: New Release 4 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/402959.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: New Release 5 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_en.jpg" group-title="24/7 CineMania", EN: New Release 5 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/402958.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Best of New Release 1 FHD" tvg-logo="http://b1g.fun/logos2/new_release_hi.jpg" group-title="24/7 CineMania", IN: Best of New Release 1 FHD
+http://b1g.uk/live/123456/12345/385250.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Best of New Release 2 FHD" tvg-logo="http://b1g.fun/logos2/new_release_hi.jpg" group-title="24/7 CineMania", IN: Best of New Release 2 FHD
+http://b1g.uk/live/123456/12345/385249.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Best of New Release 3 FHD" tvg-logo="http://b1g.fun/logos2/new_release_hi.jpg" group-title="24/7 CineMania", IN: Best of New Release 3 FHD
+http://b1g.uk/live/123456/12345/385248.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: New Release 1 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_hi.jpg" group-title="24/7 CineMania", IN: New Release 1 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/385253.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: New Release 2 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_hi.jpg" group-title="24/7 CineMania", IN: New Release 2 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/385252.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: New Release 3 FHD (All day one movie)" tvg-logo="http://b1g.fun/logos2/new_release_hi.jpg" group-title="24/7 CineMania", IN: New Release 3 FHD (All day one movie)
+http://b1g.uk/live/123456/12345/385251.ts
+#EXTINF:-1 tvg-id="" tvg-name="*_*_*_*_* CineMania Bollywood Cinema *_*_*_*_*" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", *_*_*_*_* CineMania Bollywood Cinema *_*_*_*_*
+http://b1g.uk/live/123456/12345/385247.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 1 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 1 FHD
+http://b1g.uk/live/123456/12345/385246.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 2 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 2 FHD
+http://b1g.uk/live/123456/12345/385245.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 3 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 3 FHD
+http://b1g.uk/live/123456/12345/385244.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 4 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 4 FHD
+http://b1g.uk/live/123456/12345/385243.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 5 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 5 FHD
+http://b1g.uk/live/123456/12345/385242.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 6 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 6 FHD
+http://b1g.uk/live/123456/12345/385241.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 7 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 7 FHD
+http://b1g.uk/live/123456/12345/385240.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 8 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 8 FHD
+http://b1g.uk/live/123456/12345/385239.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 9 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 9 FHD
+http://b1g.uk/live/123456/12345/385238.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 10 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 10 FHD
+http://b1g.uk/live/123456/12345/385237.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 11 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 11 FHD
+http://b1g.uk/live/123456/12345/385236.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 12 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 12 FHD
+http://b1g.uk/live/123456/12345/385235.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 13 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 13 FHD
+http://b1g.uk/live/123456/12345/385234.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 14 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 14 FHD
+http://b1g.uk/live/123456/12345/385233.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 15 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 15 FHD
+http://b1g.uk/live/123456/12345/385232.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 16 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 16 FHD
+http://b1g.uk/live/123456/12345/385231.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 17 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 17 FHD
+http://b1g.uk/live/123456/12345/385230.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 18 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 18 FHD
+http://b1g.uk/live/123456/12345/385229.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 19 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 19 FHD
+http://b1g.uk/live/123456/12345/385228.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 20 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 20 FHD
+http://b1g.uk/live/123456/12345/385227.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 21 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 21 FHD
+http://b1g.uk/live/123456/12345/385226.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 22 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 22 FHD
+http://b1g.uk/live/123456/12345/385225.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 23 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 23 FHD
+http://b1g.uk/live/123456/12345/385224.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 24 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 24 FHD
+http://b1g.uk/live/123456/12345/385223.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 25 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 25 FHD
+http://b1g.uk/live/123456/12345/385222.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 26 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 26 FHD
+http://b1g.uk/live/123456/12345/385221.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 27 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 27 FHD
+http://b1g.uk/live/123456/12345/385220.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 28 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 28 FHD
+http://b1g.uk/live/123456/12345/385219.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 29 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 29 FHD
+http://b1g.uk/live/123456/12345/385218.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 30 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 30 FHD
+http://b1g.uk/live/123456/12345/385217.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 31 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 31 FHD
+http://b1g.uk/live/123456/12345/385216.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 32 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 32 FHD
+http://b1g.uk/live/123456/12345/385215.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 33 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 33 FHD
+http://b1g.uk/live/123456/12345/385214.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 34 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 34 FHD
+http://b1g.uk/live/123456/12345/385213.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 35 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 35 FHD
+http://b1g.uk/live/123456/12345/385212.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 36 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 36 FHD
+http://b1g.uk/live/123456/12345/385211.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 37 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 37 FHD
+http://b1g.uk/live/123456/12345/385210.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 38 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 38 FHD
+http://b1g.uk/live/123456/12345/385209.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 39 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 39 FHD
+http://b1g.uk/live/123456/12345/385208.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 40 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 40 FHD
+http://b1g.uk/live/123456/12345/385207.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 41 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 41 FHD
+http://b1g.uk/live/123456/12345/385206.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 42 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 42 FHD
+http://b1g.uk/live/123456/12345/385205.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 43 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 43 FHD
+http://b1g.uk/live/123456/12345/385204.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 44 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 44 FHD
+http://b1g.uk/live/123456/12345/385203.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 45 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 45 FHD
+http://b1g.uk/live/123456/12345/385202.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 46 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 46 FHD
+http://b1g.uk/live/123456/12345/385201.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 47 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 47 FHD
+http://b1g.uk/live/123456/12345/385200.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 48 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 48 FHD
+http://b1g.uk/live/123456/12345/385199.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 49 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 49 FHD
+http://b1g.uk/live/123456/12345/385198.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood 50 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania", CineMania Bollywood 50 FHD
+http://b1g.uk/live/123456/12345/385197.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 1 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 1 FHD
+http://b1g.uk/live/123456/12345/642276.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 2 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 2 FHD
+http://b1g.uk/live/123456/12345/642277.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 3 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 3 FHD
+http://b1g.uk/live/123456/12345/642278.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 4 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 4 FHD
+http://b1g.uk/live/123456/12345/642279.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 5 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 5 FHD
+http://b1g.uk/live/123456/12345/642280.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 6 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 6 FHD
+http://b1g.uk/live/123456/12345/642281.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 7 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 7 FHD
+http://b1g.uk/live/123456/12345/642282.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 8 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 8 FHD
+http://b1g.uk/live/123456/12345/642283.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 9 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 9 FHD
+http://b1g.uk/live/123456/12345/642284.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Action 10 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Action 10 FHD
+http://b1g.uk/live/123456/12345/642285.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 1 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 1 FHD
+http://b1g.uk/live/123456/12345/642286.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 2 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 2 FHD
+http://b1g.uk/live/123456/12345/642287.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 3 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 3 FHD
+http://b1g.uk/live/123456/12345/642288.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 4 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 4 FHD
+http://b1g.uk/live/123456/12345/642289.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 5 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 5 FHD
+http://b1g.uk/live/123456/12345/642290.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 6 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 6 FHD
+http://b1g.uk/live/123456/12345/642291.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 7 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 7 FHD
+http://b1g.uk/live/123456/12345/642292.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 8 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 8 FHD
+http://b1g.uk/live/123456/12345/642293.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 9 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 9 FHD
+http://b1g.uk/live/123456/12345/642294.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Comedy 10 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Comedy 10 FHD
+http://b1g.uk/live/123456/12345/642295.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 1 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 1 FHD
+http://b1g.uk/live/123456/12345/642322.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 2 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 2 FHD
+http://b1g.uk/live/123456/12345/642323.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 3 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 3 FHD
+http://b1g.uk/live/123456/12345/642324.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 4 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 4 FHD
+http://b1g.uk/live/123456/12345/642325.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 5 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 5 FHD
+http://b1g.uk/live/123456/12345/642326.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 6 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 6 FHD
+http://b1g.uk/live/123456/12345/642327.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 7 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 7 FHD
+http://b1g.uk/live/123456/12345/642328.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 8 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 8 FHD
+http://b1g.uk/live/123456/12345/642329.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 9 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 9 FHD
+http://b1g.uk/live/123456/12345/642330.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Crime 10 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Crime 10 FHD
+http://b1g.uk/live/123456/12345/642331.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 1 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 1 FHD
+http://b1g.uk/live/123456/12345/642296.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 2 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 2 FHD
+http://b1g.uk/live/123456/12345/642297.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 3 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 3 FHD
+http://b1g.uk/live/123456/12345/642298.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 4 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 4 FHD
+http://b1g.uk/live/123456/12345/642299.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 5 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 5 FHD
+http://b1g.uk/live/123456/12345/642300.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 6 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 6 FHD
+http://b1g.uk/live/123456/12345/642301.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 7 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 7 FHD
+http://b1g.uk/live/123456/12345/642302.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 8 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 8 FHD
+http://b1g.uk/live/123456/12345/642303.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 9 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 9 FHD
+http://b1g.uk/live/123456/12345/642304.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Drama 10 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Drama 10 FHD
+http://b1g.uk/live/123456/12345/642305.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Horror 1 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Horror 1 FHD
+http://b1g.uk/live/123456/12345/642316.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Horror 2 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Horror 2 FHD
+http://b1g.uk/live/123456/12345/642317.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Horror 3 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Horror 3 FHD
+http://b1g.uk/live/123456/12345/642318.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Horror 4 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Horror 4 FHD
+http://b1g.uk/live/123456/12345/642319.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Horror 5 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Horror 5 FHD
+http://b1g.uk/live/123456/12345/642320.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Horror 6 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Horror 6 FHD
+http://b1g.uk/live/123456/12345/642321.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 1 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 1 FHD
+http://b1g.uk/live/123456/12345/642306.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 2 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 2 FHD
+http://b1g.uk/live/123456/12345/642307.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 3 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 3 FHD
+http://b1g.uk/live/123456/12345/642308.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 4 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 4 FHD
+http://b1g.uk/live/123456/12345/642309.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 5 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 5 FHD
+http://b1g.uk/live/123456/12345/642310.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 6 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 6 FHD
+http://b1g.uk/live/123456/12345/642311.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 7 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 7 FHD
+http://b1g.uk/live/123456/12345/642312.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 8 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 8 FHD
+http://b1g.uk/live/123456/12345/642313.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 9 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 9 FHD
+http://b1g.uk/live/123456/12345/642314.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bollywood Romance 10 FHD" tvg-logo="" group-title="24/7 CineMania", CineMania Bollywood Romance 10 FHD
+http://b1g.uk/live/123456/12345/642315.ts
 
 
