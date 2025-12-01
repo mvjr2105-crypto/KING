@@ -1101,5 +1101,7 @@ https://zamlb.tgaadi.workers.dev/1779.ts
 https://tgaadix.vercel.app/api/stream/662136.m3u8
 #EXTINF:-1 tvg-id="" group-title="IN/PK | Sports"" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
 https://zamlb.tgaadi.workers.dev/96988.ts
+#EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony SAB(denver)" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png" group-title="IN | Entertainment", Sony SAB
+https://local.denver1769.fun/hls/sab/stream.m3u8
 
 
