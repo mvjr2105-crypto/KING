@@ -2104,8 +2104,10 @@ http://b1g.uk/live/Kapil/Kapil123/20661.ts
 http://b1g.uk/live/Kapil/Kapil123/20672.ts
 #EXTINF:-1 tvg-id="indianewspunjab.in" tvg-name="IN-NEWS | TS India News Punjab" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-Punjab-1.png" group-title="IN | News", IN-NEWS | TS India News Punjab
 http://b1g.uk/live/Kapil/Kapil123/663513.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN-PUNJ | TS Tata Play Toons+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png" group-title="IN | News", IN-PUNJ | TS Tata Play Toons+
-http://b1g.uk/live/Kapil/Kapil123/663510.ts
+#EXTINF:-1 tvg-id="" Tvg-name="IN-PUNJ | TS Tata Play Toons+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png" group-title="IN | News", IN-PUNJ | TS Tata Play Toons+
+http://b1g.uk/live/Kapil/Kapil123/663510.tsIIN
+
+http://mactom3u-production-276d.up.railway.app//index.m3u8?id=481017
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | TS Star Plus FHD" tvg-logo="http://b1g.fun/logos2/star_plushd.jpg" group-title="IN | Entertainment", IN | TS Star Plus FHD
 http://b1g.uk/live/Kapil/Kapil123/7932.ts
 #EXTINF:-1 tvg-id="starutsav.in" tvg-name="IN | TS Star Utsav" tvg-logo="http://b1g.fun/logos2/star_utsav.jpg" group-title="IN | Entertainment", IN | TS Star Utsav
