@@ -3,6 +3,8 @@
 http://b1g.uk:80/Kapil/Kapil123/685130
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | BIGG BOSS OTT 24X7 HD" tvg-logo="https://images.news18.com/ibnlive/uploads/2021/02/1613126289_download-2.jpg" group-title="IN | Entertainment",IN | BIGG BOSS OTT 24X7 HD
 http://b1g.uk:80/Kapil/Kapil123/685131
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysab SAB-SONY" tvg-name="SONY SAB SD*" tvg-logo="http://ryzen.one/logos2/sony_sab.jpg" group-title="IN | Entertainment",SONY SAB SD*
+http://mactom3u-production-276d.up.railway.app//index.m3u8?id=481017
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starplushd.in" tvg-name="IN | TS Star Plus FHD" tvg-logo="http://ryzen.one/logos2/star_plushd.jpg" group-title="IN | Entertainment",IN | TS Star Plus FHD
 http://b1g.uk:80/Kapil/Kapil123/7932
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starutsav.in" tvg-name="IN | TS Star Utsav" tvg-logo="http://ryzen.one/logos2/star_utsav.jpg" group-title="IN | Entertainment",IN | TS Star Utsav
